@@ -198,5 +198,340 @@
    "reason": "It genuinely earns the whisper \u2014 this reads as a bloom occurring after the world has quieted, and the dream-wash edge-softening and star-dusted atmosphere serve Alchemical Atmosphere and Dream-Wash Rendering, though the crowded, almost-symmetrical petal mass leans fuller and busier than the collection's minimalist restraint.",
    "redemption": ""
   }
+ },
+ "vault": {
+  "whiteflower_793786": {
+   "presence": 8,
+   "chorus": 7,
+   "vessel": 5,
+   "verdict": "HOLD",
+   "seen": "A single spray of white blossoms burning pale against near-black, saying its one thing \u2014 fragile light against char \u2014 completely and without hedging.",
+   "reason": "The whisper and the atmosphere are true, but the vessel breaks the spell: petal edges carry a synthetic outline/haloing (that faint dark rim-light stutter around several blooms) and the stamens read as a repeated AI-generated texture rather than botanical structure, which reads as artifact under close looking rather than dream-dissolve.",
+   "redemption": "Regenerate with softer, less uniform stamen detail and no hard rim-outlining on the petals \u2014 let the white truly bleed into the dark per Dream-Wash canon instead of holding a crisp cutout edge against it."
+  },
+  "blue_lotus__bluelotus-digital2_b6ec9a": {
+   "presence": 8,
+   "chorus": 5,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "A bioluminescent blue lotus floating on a still night pond, catching a shaft of stardust light from above.",
+   "reason": "The presence is real \u2014 the lotus genuinely glows from within and the whisper of quiet, self-sufficient opening reads in the composition \u2014 but the rendering leans into digital fantasy-art sheen (crisp painterly petals, generic nebula-bokeh sparkle) rather than the collection's dissolve-edged, memory-light Dream-Wash treatment, so it doesn't sing in the collection's chorus.",
+   "redemption": "Soften the petal edges so they bleed into the dark water rather than holding a clean illustrated outline, and replace the literal starfield/nebula overlay with a more restrained, atmospheric light bloom consistent with Alchemical Atmosphere."
+  },
+  "aether_glass__ether_glass__The_Aether_Glass_Refi_7f0782": {
+   "presence": 7,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A rose caught mid-dissolution into pure chromatic light \u2014 petals barely holding their edges against prismatic bleed, as if the flower is being translated into glass and hasn't finished the conversion.",
+   "reason": "Form genuinely hesitates here \u2014 the rose is legible but its edges keep dissolving into rainbow refraction, which is exactly the whisper's promise, and the Dream-Wash / Alchemical Atmosphere canon threads are both present without curdling into noise.",
+   "redemption": ""
+  },
+  "aether_glass__ether_glass__The_Ether_Glass_A_mor_19db94": {
+   "presence": 8,
+   "chorus": 9,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A cluster of dewed, translucent blossoms caught mid-dissolve, their petals lit from within like frosted glass rather than reflecting light off a surface.",
+   "reason": "The near-colorless palette and soft optical bleed genuinely enact 'form hesitates,' and the alchemical glass-quality of the petals honors both the name and the room's veil-between mood without dissolving into mush.",
+   "redemption": ""
+  },
+  "aether_glass__ether_glass__aether_glass3_269d08": {
+   "presence": 7,
+   "chorus": 8,
+   "vessel": 6,
+   "verdict": "PASS",
+   "seen": "A dense cluster of pearlescent, semi-translucent petals catching prismatic light along their edges, as if the flower hasn't fully committed to solidity \u2014 a single luminous drop of pollen-gold at one bloom's throat the only anchor point in the whole dissolve.",
+   "reason": "The whisper is fulfilled almost literally: form genuinely hesitates here, petals reading as glass-membrane rather than flesh, with true dream-wash bleed and iridescent Alchemical Atmosphere color-shift rather than a merely blurred photo \u2014 though the vessel is slightly softened by an overall haze that flattens depth in the surrounding petals.",
+   "redemption": ""
+  },
+  "aether_glass__ether_glass__aether_glass2_8c823f": {
+   "presence": 8,
+   "chorus": 9,
+   "vessel": 8,
+   "verdict": "PASS",
+   "seen": "A peony-form dissolving into iridescent nacre \u2014 petals half mineral, half light, unsure whether they're glass, shell, or bloom.",
+   "reason": "It fully embodies the whisper \u2014 form genuinely hesitates between flower and refracted light \u2014 while the oil-slick iridescence and soft-focus bleed sit squarely in Alchemical Atmosphere and Dream-Wash Rendering, with no artifacting to break the spell.",
+   "redemption": ""
+  },
+  "opaline_drift__opaline_drift_bec6c0": {
+   "presence": 7,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "Layered opaline poppy petals catching prismatic light, edges softening into one another so the eye can't quite land \u2014 restraint dissolved into shimmer rather than shouted.",
+   "reason": "It holds Room III's veil: nothing insists on being seen, the iridescence behaves like memory rather than spectacle, and the dream-wash bleed keeps petal boundaries uncertain without collapsing into mush or artifact.",
+   "redemption": ""
+  },
+  "voidflower__void_flower_ca50a1": {
+   "presence": 7,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A cluster of pale, moth-winged blossoms surfacing out of near-total darkness, lit as if by a light with no visible source.",
+   "reason": "The negative space isn't emptiness here, it's the absence the whisper names \u2014 the blooms genuinely read as things that formed on the far side of it, and the palette and dissolved edges sit comfortably in the collection's alchemical, dream-wash register.",
+   "redemption": ""
+  },
+  "frost__frost-bloom2_29b279": {
+   "presence": 6,
+   "chorus": 8,
+   "vessel": 5,
+   "verdict": "HOLD",
+   "seen": "A radial bloom of frosted, translucent petal-facets veined like frozen leaves, glowing from a soft inner light.",
+   "reason": "It sings the Alchemical Atmosphere and Dream-Wash canon beautifully, but the repetition reads as tiled/patterned rather than organic \u2014 the petal facets are too uniform and geometrically stamped, breaking the held-stillness the whisper promises with an almost algorithmic tiling artifact.",
+   "redemption": "Vary petal scale and facet angle irregularly toward the outer rows, and let a few edges fracture or melt unevenly so the bloom feels grown by frost rather than extruded by a pattern."
+  },
+  "midnight_opaline__0_0_4f26c6": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A frost-blue bloom whose petals dissolve into starlit dust, holding light like something waiting under ice.",
+   "reason": "The dark-sleeping color, the mineral glint at the throat, and the softened dream-wash edges all answer the whisper and the canon without a slip into gaudiness or artifice.",
+   "redemption": ""
+  },
+  "labradorite__labradorite-veil3_71aa1d": {
+   "presence": 3,
+   "chorus": 6,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "A dense, dark tangle of iridescent abalone-like folds with scattered teal-blue flares and gold veining, technically well-rendered but read almost entirely as texture rather than as a flower or a veil that answers turning.",
+   "reason": "The piece is competent Alchemical Atmosphere but has no floral or bodily form for the 'veil' to drape over or reveal \u2014 it holds mineral shimmer without holding the whisper's core image of something that turns and half-answers; presence is too low and the composition too uniformly busy (no negative space, no single point of surrender) for it to earn Room IV as a standalone piece.",
+   "redemption": "Introduce a clear focal form \u2014 a bloom, a face-shaped void, or a single unfolding petal-shape \u2014 that the labradorite folds wrap around, with more negative space so the eye has somewhere to 'turn toward' rather than being lost in uniform texture."
+  },
+  "queen_of_the_night__queen_of_the_night_054204": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A single vast queen-of-the-night blossom opens in near-total dark, its pale petals dusted with starlight and its stamens glowing like embers at the throat.",
+   "reason": "The bloom genuinely reads as something that has waited for silence to unfurl \u2014 the void-black ground, the star-dust bleeding into petal edges, and the soft dream-wash haze all carry the Threshold's hush without tipping into gimmick or artifact.",
+   "redemption": ""
+  },
+  "blue_lotus__bluelotus-digital_7c2d89": {
+   "presence": 8,
+   "chorus": 3,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "A luminous violet-blue water lily glowing from within, adrift on a dark pool beneath a starlit nebula, its light doubled in the still reflection.",
+   "reason": "The presence is real \u2014 the flower breathes secrecy and quiet radiance, true to the whisper of opening for no one \u2014 but the rendering leans into digital-fantasy sheen (crisp nebula, glossy sparkle-dust, saturated cosmic backdrop) that sits outside all three canon pillars: it's not restrained minimalism, its atmosphere is decorative rather than elemental/alchemical, and its edges are sharp and lit like a game asset rather than dissolving like memory.",
+   "redemption": "Strip the starfield to a whisper of light rather than a rendered galaxy, soften the petal edges until they bleed into the dark water, and let the glow feel like it's escaping through mist or frost rather than sparkling like magic particles \u2014 bring the atmosphere back to element (water, dark, single light source) instead of cosmos."
+  },
+  "delicate_translucent__Delicate_translucent_flowe_1b0bcf": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "Translucent, gold-veined petals unfold like glass across a starfield-deep indigo, luminous without ever fully solidifying into flesh.",
+   "reason": "The flowers genuinely read as apparitions rather than objects \u2014 line, wash, and starlight fuse into one atmosphere, and the whisper of rising undisturbed is embodied in how the petals float weightless against the dark.",
+   "redemption": ""
+  },
+  "delicate_translucent__Delicate_translucent_flowe_bb50cb": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "Translucent, gold-veined blossoms float and drift across a deep indigo wash, their contour lines glowing like something lit from within rather than painted on.",
+   "reason": "The flowers genuinely feel like they're rising without disturbing the dark \u2014 the linework has a weightless, breath-like quality and the whisper is fully earned, with only minor tangling in the lower stem cluster keeping it from a higher vessel score.",
+   "redemption": ""
+  },
+  "delicate_translucent__Delicate_translucent_flowe_2824ed": {
+   "presence": 7,
+   "chorus": 4,
+   "vessel": 4,
+   "verdict": "HOLD",
+   "seen": "Gilded gingko-shaped blossoms with fine gold linework floating in a deep indigo wash, luminous but botanically literal rather than translucent.",
+   "reason": "The whisper promises translucence and undisturbed rising through dark, but these petals are opaque, heavily outlined and metallic-veined like decorative wallpaper \u2014 they sit ON the void rather than rising through it, and the gold-line rendering reads as ornamental/AI-decorative rather than Dream-Wash dissolving-edge, breaking canon with both Luminous Botanical Minimalism (too busy, no negative space) and Dream-Wash Rendering (edges are crisp, not bleeding).",
+   "redemption": "Strip the gold contour linework to let petals go translucent and edge-soft, increase negative space so fewer blossoms breathe in more dark, and let color bleed into the indigo instead of sitting as distinct opaque shapes."
+  },
+  "delicate_translucent__Delicate_translucent_flowe_7bcbf4": {
+   "presence": 8,
+   "chorus": 5,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "Translucent, gold-veined petals emerge like glass fungi or jellyfish blooms out of deep indigo dark, luminous and quiet.",
+   "reason": "The presence is genuinely striking and the whisper of rising undisturbed is honored, but the forms read more coral/fungal/jellyfish than floral, and the rendering leans toward stylized vector-line illustration rather than the dream-wash bleed the collection's third canon calls for \u2014 the gold contour lines are too crisp and graphic-design-clean to dissolve at the edges.",
+   "redemption": "Soften the gold linework so it breaks and blurs into the petal color rather than tracing every vein as a hard outline, and let at least one bloom lose its edge into the indigo ground entirely \u2014 that would pull it out of botanical-illustration territory and into true dream-wash."
+  },
+  "aether_glass__ether_glass__aether_glass_0a548d": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "Petals rendered as thin refractive glass, dispersing light into faint prismatic edges as if the flower hasn't fully decided to be solid or transparent.",
+   "reason": "The dispersion-edge glass rendering directly embodies the hesitating-form whisper and reads as alchemical transformation with dream-wash light, and it sits fluently in the collection's canon of glass/light/memory.",
+   "redemption": ""
+  },
+  "aether_glass__crystal_ether__The_Ether_Glass_A_m_1d0e84": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A hydrangea cluster rendered as translucent glass-petaled bloom, nearly colorless with only faint lavender and iridescent light catching each surface, generous negative space breathing on the right",
+   "reason": "It passes because the petals genuinely read as hesitant, half-materialized glass rather than confident flower-form, and the near-colorless palette with soft dissolving edges honors both the Alchemical Atmosphere and Dream-Wash canons without tipping into obvious AI over-smoothing",
+   "redemption": ""
+  },
+  "aether_glass__crystal_ether__The_Ether_Glass_A_m_e4a5cc": {
+   "presence": 7,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A cluster of translucent, glass-thin blossoms caught mid-shimmer, their petals barely distinguishable from the pale blue-violet air holding them.",
+   "reason": "The petals genuinely read as glass \u2014 light refracts through them in faint prismatic streaks rather than just reflecting off a surface \u2014 and the whole frame stays soft enough that nothing hardens into a botanical illustration; the near-total desaturation and blur commit fully to the 'almost colorless' brief, and it sits comfortably in both the Alchemical Atmosphere and Dream-Wash canons.",
+   "redemption": ""
+  },
+  "aether_glass__crystal_ether__The_Ether_Glass_A_m_157d85": {
+   "presence": 7,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A cluster of blossoms rendered nearly translucent, petals holding light like thin glass with a faint iridescent shimmer at their edges.",
+   "reason": "The form genuinely hesitates toward dissolution rather than just being blurred, and the cool blue-white palette with soft bokeh honors both the Alchemical Atmosphere and Dream-Wash canon without tipping into mush or artifact.",
+   "redemption": ""
+  },
+  "frost__frost-bloom_6d5dd1": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A radial dahlia-like bloom of frosted, translucent petals rendered in pale ice-blue and white, veined with faint gold, ringed by a soft cold haze.",
+   "reason": "The stillness in the whisper is genuinely embodied \u2014 the petals read as held in suspension rather than wilted or growing, and the frost-glass texture and hazy depth land squarely in the collection's Alchemical Atmosphere and Dream-Wash canon without tipping into synthetic over-symmetry.",
+   "redemption": ""
+  },
+  "golden_yellow__Golden-yellow_coltsfoot_flowers_i_3604d4": {
+   "presence": 8,
+   "chorus": 3,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "Sun-warm dandelion-coltsfoot heads flare against near-black in soft motion-blur, one strange cool blue-teal bloom sitting among the gold like an intrusion.",
+   "reason": "The blue-teal flower breaks the spell \u2014 it reads as a rendering slip rather than intention, an alchemical accident the whisper doesn't account for, and it pulls the eye away from the 'small suns' the name promises.",
+   "redemption": "Either resolve the blue bloom into the gold-and-amber family (warm ash, warm frost) so it reads as one of the suns rather than an outlier, or if it's meant as a deliberate cool counter-note, push it further into the frame's language of transformation (frost over one bloom, memory dimming another) so it feels chosen, not glitched."
+  },
+  "golden_yellow__Golden-yellow_coltsfoot_flowers_i_f0f400": {
+   "presence": 6,
+   "chorus": 4,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "A dense thicket of dandelion-like coltsfoot seedheads and blooms, motion-blurred into radiant starbursts against near-black shadow.",
+   "reason": "The motion-blur burst technique reads as a generic stock-photography effect rather than dream-wash dissolution, and the tight, cluttered composition leaves no negative space \u2014 it fights the collection's restraint and its own whisper of small suns being unbothered by the sky (there is no sky, no solitude, no stillness here).",
+   "redemption": "Isolate one or two blooms with real negative space and a visible sky or soft gradient ground, and trade the radial motion-blur gimmick for the collection's true dream-wash: edges dissolving into bled color rather than streaking into spokes."
+  },
+  "sunset__The_same_flowers_but_bathed_in_first_lig_1434e3": {
+   "presence": 7,
+   "chorus": 7,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A dense peony drift rendered in linework and copper-rose wash against deep indigo, light gathering warmly in the upper-right cluster while the lower-left dissolves into shadowed grasses.",
+   "reason": "The petals genuinely hold that leaned-into warmth the whisper promises \u2014 light behaves like memory across the gradient, restraint is present in the negative indigo space, and no anatomy or AI seams break the illusion, though the piece reads slightly more as botanical illustration than dream-wash atmosphere.",
+   "redemption": ""
+  },
+  "sunset__The_same_flowers_but_bathed_in_first_lig_6cde26": {
+   "presence": 8,
+   "chorus": 6,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A dusk-blue field where warm ivory-gold blossoms hold their own inner light against the cooling dark, still lit from within though the day is leaving.",
+   "reason": "The whisper asks for first light touching petals that allow it, and the piece delivers real luminous surrender at the bloom centers \u2014 but the palette reads as blue-hour dusk rather than dawn's first light, and the chorus is uneven since a few background stems drift into unresolved scribble that slightly dims the transformation-through-light alchemy the collection promises.",
+   "redemption": ""
+  },
+  "sunset__The_same_flowers_but_bathed_in_first_lig_6b98b8": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "Two poppy-like blooms lean into a field of first light, their translucent petals veined gold and rose against a deep indigo dusk of ghosted stems and blue-grey leaves.",
+   "reason": "The light genuinely seems to arrive and touch the petals from within \u2014 the gold vein-work and soft edge-dissolve deliver the whisper's transformation-through-light, and it holds the Alchemical Atmosphere and Dream-Wash canon without tipping into noise or artifact.",
+   "redemption": ""
+  },
+  "sunset__The_same_flowers_but_bathed_in_first_lig_9cb6a1": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A wildflower field caught in the last warm bleed of light against a deepening indigo dusk, petals glowing peach-gold like embers against the dark.",
+   "reason": "The atmosphere is doing real alchemical work \u2014 light behaves like memory here, petals dissolve softly at their edges into the dark ground, and the composition holds a hushed, held-breath stillness that answers the whisper without illustrating it too literally; a few stems drift toward stylization but never break the spell.",
+   "redemption": ""
+  },
+  "verdant_memory__The_Verdant_Memory_Here_green_ta_2ff4ac": {
+   "presence": 7,
+   "chorus": 5,
+   "vessel": 6,
+   "verdict": "HOLD",
+   "seen": "A dense hush of white roses, viburnum, and pale wisteria dissolving into mossy green\u2014soft memory made floral, but reading more as generic garden wash than a green-led composition.",
+   "reason": "The whisper promises green taking the lead, but white blooms dominate the visual weight while the green recedes to background wash, and the Dream-Wash softness edges into indistinct mush without a clear focal anchor.",
+   "redemption": "Let the green foliage itself carry more structure and presence\u2014darker, more articulated moss and eucalyptus forms pushed forward\u2014so the white flowers read as accents within green memory, not the other way around."
+  },
+  "verdant_memory__The_Verdant_Memory_Here_green_ta_77930c": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A dense hushed thicket of pale hydrangea, wild rose, and dill-flower foils dissolving into deep sage and moss shadow, gold pollen-dust caught like sediment of memory in the green.",
+   "reason": "The green does lead, holding real depth and atmosphere with soft dream-wash edges and alchemical gold flecks, and the composition breathes as garden-memory rather than mere floral wallpaper \u2014 Room II's canon is intact.",
+   "redemption": ""
+  },
+  "verdant_memory__The_Verdant_Memory_Here_green_ta_35e30e": {
+   "presence": 7,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A dense hush of pale rose, jasmine, and baby's breath dissolved into sage-and-moss shadow, as if the whole bed were being remembered rather than seen.",
+   "reason": "The green genuinely leads and swallows the blooms into atmosphere rather than illustration, matching both the whisper of forgetting-hands and the Dream-Wash/Alchemical canon, with soft edge-bleed and no anatomical or AI-artifact breaks.",
+   "redemption": ""
+  },
+  "alpine_scatter__The_Alpine_Scatter_A_breath_of_h_03ae91": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A scatter of small pale-gold alpine buttercups rising thin-stemmed from bare rock, breathing in cold blue mist.",
+   "reason": "The delicacy and thin-air fragility promised by the whisper are fully embodied \u2014 each bloom feels singular and complete against the softened stone and haze, and the dream-wash bleed of blue into gold reads as light-as-memory rather than as a flaw.",
+   "redemption": ""
+  },
+  "alpine_scatter__The_Alpine_Scatter_A_breath_of_h_6a73fd": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 8,
+   "verdict": "PASS",
+   "seen": "A scatter of small pale-gold buttercup-like blooms rising thin and unruly from rock and mist, each flower whole despite its smallness.",
+   "reason": "The thinness of the stems, the fog-soft desaturated palette, and the way the blossoms hold their own clear light against dissolving edges together embody the whisper \u2014 presence is delicate but never diminished, and the alchemical mist and dream-wash bleed are fully in canon.",
+   "redemption": ""
+  },
+  "alpine_scatter__The_Alpine_Scatter_A_breath_of_h_ad96ee": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A thin scatter of pale-gold buttercup-like blooms on wiry stems, breathing alone in cool blue-grey mist above bare rock.",
+   "reason": "The composition trusts negative space and thin air the way the whisper demands, and the dream-wash haze dissolves edges into memory without curdling into mush or artifact.",
+   "redemption": ""
+  },
+  "alpine_scatter__The_Alpine_Scatter_A_breath_of_h_ffa703": {
+   "presence": 7,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A thin scatter of pale yellow buttercup-like blooms leaning off a lichened granite ledge into fog, wiry stems catching a soft cold light.",
+   "reason": "The blooms genuinely hold that high-altitude fragility \u2014 sparse, wind-thin, and dissolved at the edges into blue-grey mist \u2014 without collapsing into mush or over-sweetness, and the composition's negative space carries as much weight as the flowers themselves.",
+   "redemption": ""
+  },
+  "alpine_scatter__The_Alpine_Scatter_A_breath_of_h_8adbe7": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A thin scatter of pale-gold alpine blooms and buds rising on wiry stems from a stony ledge, dissolving upward into cold blue-grey mist.",
+   "reason": "The composition earns its restraint \u2014 sparse, upright stems against negative space read exactly as thin air and small completeness, and the frost-blue atmosphere with soft-bled petal edges delivers the alchemical/dream-wash canon without any rendering artifacts.",
+   "redemption": ""
+  },
+  "alpine_scatter__The_Alpine_Scatter_A_breath_of_h_addece": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A cluster of pale-gold wildflowers on lichened rock, thinning into mist toward a soft mountain silhouette.",
+   "reason": "The delicate blooms carry real presence against thin, high-altitude air, the composition breathes with generous negative space, and the dream-wash haze and cool-to-warm light transition fold cleanly into the collection's alchemical and dream-wash canon without any artifact breaking the spell.",
+   "redemption": ""
+  }
  }
 }
