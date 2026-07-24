@@ -77,6 +77,10 @@ def main() -> None:
     gelato_external_ids('gelato_pushed_founders.json', state["ids"])
     if (HERE/'gelato_pushed_comma.json').exists():
         gelato_external_ids('gelato_pushed_comma.json', state["ids"])
+    if (HERE/'gelato_pushed_hermes_sq.json').exists():
+        gelato_external_ids('gelato_pushed_hermes_sq.json', state["ids"])
+    if (HERE/'gelato_pushed_hermes_pt.json').exists():
+        gelato_external_ids('gelato_pushed_hermes_pt.json', state["ids"])
     save()
     print(f"listings live: {len(state['ids'])}")
 
@@ -105,11 +109,14 @@ def main() -> None:
                    'atlas-selects')
         art = HERE/art_dir/f"{stem}.png"
         ok = True
-        # flat true-to-color art as an early photo
+        # flat true-to-color art uploaded first — Etsy's real display order is
+        # upload/insertion order, NOT the 'rank' field (verified 2026-07-24: an
+        # explicit rank param caused this photo to be buried behind unranked
+        # mockups instead of leading them). Never pass rank here.
         with art.open('rb') as f:
             r = requests.post(f"https://api.etsy.com/v3/application/shops/{shop_id}/listings/{lid}/images",
                               headers=hdr, files={"image": (art.name, f, "image/png")},
-                              data={"rank": 2}, timeout=90)
+                              timeout=90)
         ok &= r.status_code in (200, 201)
         if key not in founders and key not in hermes_pt:
             for scene in sorted((HERE/'mockups'/stem).glob('scene*.jpg')):
