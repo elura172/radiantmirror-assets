@@ -895,5 +895,1546 @@
    "reason": "It's a lovely, competently rendered piece, but it reads as whimsical illustration rather than devotional medicine \u2014 there's no ache or stillness of healing in it, and the dense curio-cabinet busyness (fish, dragonfly, moth, rocks, lily pads all at once) works against the restraint the collection's canon actually asks for.",
    "redemption": "Simplify drastically \u2014 one axolotl or none, fewer flowers, more negative space around the cup, so the piece feels like a single warm exhale instead of a crowded terrarium."
   }
+ },
+ "hermes": {
+  "crystalline-textures_521fef": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "Fractured opal-stone catching internal galaxies of gold and rose light along its gilded fault lines.",
+   "reason": "The gold-veined fissures genuinely read as light caught mid-fracture, with faceted depth and cosmic sparkle that earns the crystalline-texture canon and holds together as clean abstraction without artifacting.",
+   "redemption": ""
+  },
+  "crystalline-textures_a4c1e7": {
+   "presence": 4,
+   "chorus": 4,
+   "vessel": 5,
+   "verdict": "HOLD",
+   "seen": "Soft iridescent folds of liquid-silk fabric catching bokeh light, more satin drapery than crystalline mineral.",
+   "reason": "The surface reads as glossy translucent cloth rather than faceted crystal \u2014 it has warmth and shimmer but no faceted depth or hard-edged refraction, so the Alchemical Mineral canon isn't answered.",
+   "redemption": "Introduce actual crystalline facets \u2014 sharp planar breaks, hard-edged refractive geometry \u2014 instead of continuous soft folds, so light fractures rather than just glows through fabric-like curves."
+  },
+  "crystalline-textures_740328": {
+   "presence": 7,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "Iridescent, oil-slick facets of rose-gold and pearl light raking diagonally across a crumpled, glass-like surface, catching fire where the folds crest.",
+   "reason": "The diagonal fracture planes and shifting nacre color genuinely read as light mid-transformation across a faceted, crystalline surface, and it holds together as a coherent abstraction fit for the Mineral Line.",
+   "redemption": ""
+  },
+  "crystalline-textures_e0ef4c": {
+   "presence": 7,
+   "chorus": 8,
+   "vessel": 6,
+   "verdict": "PASS",
+   "seen": "A cluster of translucent crystalline facets catching iridescent light along their fractured edges, glowing from within against a dark cavern depth.",
+   "reason": "The facets genuinely refract light in shifting rainbow slicks and the depth-of-field gives real dimensional weight, so it earns its whisper of light mid-transformation even though the overall form reads slightly soft and undifferentiated in the mid-ground.",
+   "redemption": ""
+  },
+  "crystalline-textures_d06f5b": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 8,
+   "verdict": "PASS",
+   "seen": "A deep sapphire fissure of faceted crystalline strata, veined with molten copper light and starlit inclusions, glowing along a central seam as if caught between rock and cosmos.",
+   "reason": "The faceted depth and internal luminosity genuinely read as light suspended mid-transformation, and the composition holds a real focal gravity without dead space or artifact tells.",
+   "redemption": ""
+  },
+  "crystalline-textures_f8955a": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "Fractured opal-dark strata catching iridescent sparks of rose, gold, and cyan mid-shatter, like light frozen at the moment of breaking through mineral veils.",
+   "reason": "The faceted depth and glimmering texture genuinely feel like light caught mid-transformation, with enough resolution and painterly cohesion to hold as print-worthy abstraction without slipping into mush or artifact.",
+   "redemption": ""
+  },
+  "crystalline-textures_be8a61": {
+   "presence": 8,
+   "chorus": 7,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A molten spiral of glassy, opalescent light caught mid-swirl, dense with prismatic sparkle where crest meets shadow.",
+   "reason": "The whorl reads as light itself curling into form rather than a static texture, and the faceted glitter builds real depth without collapsing into noise or obvious AI mush.",
+   "redemption": ""
+  },
+  "crystalline-textures_92e8b4": {
+   "presence": 8,
+   "chorus": 7,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "Opaline crystal masses catching cold light along their fractured facets, iridescence bleeding faintly into rose and gold at the edges.",
+   "reason": "The faceting reads as genuine mineral structure with convincing refractive interior glow, and the soft focus falloff into shadow gives it real depth rather than flat texture-map sameness.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_44e3bf": {
+   "presence": 5,
+   "chorus": 6,
+   "vessel": 8,
+   "verdict": "HOLD",
+   "seen": "A gently composed, technically clean misty lake at dawn with quiet symmetry and soft color grading.",
+   "reason": "The vessel is competent and calm but there is no threshold \u2014 no aperture, no thinning veil, no sense of a door into elsewhere \u2014 it reads as pleasant landscape photography rather than a portal where the world thins.",
+   "redemption": "Introduce an actual gap or focal point in the mist \u2014 a break in the treeline, an opening of light, or a compositional aperture the eye is pulled through \u2014 so the fog reads as a doorway rather than mere atmosphere."
+  },
+  "dreamscapes--portals_680bc3": {
+   "presence": 7,
+   "chorus": 6,
+   "vessel": 6,
+   "verdict": "PASS",
+   "seen": "A robed silhouette stands suspended at the vertical center of a cloud-riven sky, mirrored below into its own reflection as if the atmosphere itself is a threshold folding on a plane of water or glass.",
+   "reason": "The vast cloud-light and the doubled, world-thinning symmetry deliver the threshold/portal awe the name promises, and the small softness in the figure's silhouette edges doesn't break the spell.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_403d55": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 8,
+   "verdict": "PASS",
+   "seen": "A funneling particulate vortex of teal-and-star-white dust narrows into a single seam of light that meets a dark shoreline, a literal thinning of the world into a doorway.",
+   "reason": "It passes because the threshold feeling is structural, not decorative \u2014 the whole composition is built as a converging portal toward a point of contact with water, and the dot-field rendering keeps it dreamlike rather than sharp or noisy.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_864274": {
+   "presence": 6,
+   "chorus": 6,
+   "vessel": 6,
+   "verdict": "HOLD",
+   "seen": "A meditative silhouette held inside a spinning tunnel of light streaks, radiant but static, more vortex than doorway.",
+   "reason": "The threshold-light and awe register, but the piece reads as a generic light-tunnel effect around a stock silhouette rather than a place where the world genuinely thins \u2014 the composition feels decorative, not liminal.",
+   "redemption": "Break the symmetry and give the light streaks a sense of arrival or passage \u2014 an asymmetric pull, a visible seam or gap in the circle where the 'other side' shows through \u2014 so it reads as a door being crossed, not a spinning halo being admired."
+  },
+  "dreamscapes--portals_f1751d": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A lone silhouetted figure stands at a threshold between rock and sand, gazing into fractured planes of luminous blue-white light and mist that fold like broken glass over an unseen expanse.",
+   "reason": "The composition earns its threshold whisper honestly \u2014 the geometric shards of light genuinely read as a door thinning the world apart, and the figure's stillness carries real awe without tipping into spectacle, though the crystalline sky pattern reads slightly repetitive up close.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_d3e285": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A seated Buddha silhouette dissolving into a vortex of cyan light and blurred taillights, a stillness at the center of motion.",
+   "reason": "The threshold feeling is genuine \u2014 a fixed sacred form against streaking, whirling light reads as a real door thinning between stillness and motion, with no artifacts breaking the illusion.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_91c620": {
+   "presence": 7,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A meditating silhouette held motionless at the center of a vast spinning ring of light, a sun-door directly behind its crown.",
+   "reason": "The composition delivers genuine threshold awe \u2014 vast atmosphere, a believable portal-light, and a still figure at the vanishing point \u2014 with dream-wash rendering that matches the room's canon, and the swirl-motion trails read as painterly rather than glitchy.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_972750": {
+   "presence": 7,
+   "chorus": 7,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A gilt-rimmed portal ringed in bokeh sparks, opening onto a sunburst sky above a breaking wave \u2014 the world thinning into another world.",
+   "reason": "It earns its threshold feeling: the void, the frame, and the sun-flared seascape beyond genuinely read as a door where the world thins, with dream-wash light and no noise breaking the spell.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_737a55": {
+   "presence": 6,
+   "chorus": 5,
+   "vessel": 5,
+   "verdict": "HOLD",
+   "seen": "A circular portal quartered into four mismatched atmospheres \u2014 ember-dust sky, misty greenscape, roiling sea, and blank amber void \u2014 stitched together with a radiating ring motif at their seam.",
+   "reason": "The threshold-light and portal geometry are present, but the quadrant grid reads as a compositing seam rather than a dream-wash, and the bottom-right panel is nearly empty, breaking the awe into four disconnected fragments instead of one thinning world.",
+   "redemption": "Blend the quadrant boundaries into the dream-wash (soften or eliminate the hard cross-seam) and give the barren quadrant its own atmosphere so all four thresholds feel like one continuous portal rather than a stitched grid."
+  },
+  "dreamscapes--portals_413145": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A lone silhouetted figure on an icy shore gazes up at a vast crystalline rift tearing open the sky, threshold light spilling through its fractured facets.",
+   "reason": "The shattered-glass firmament genuinely reads as a door where the world thins, and the small human silhouette against that immensity delivers awe without noise.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_5a8590": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A hovering ring of pale light hangs above a fog-hushed lake and glowing grove, a literal threshold suspended between water, mist, and mountain.",
+   "reason": "The portal-ring and the warm inner clearing genuinely read as a door where the world thins, and the misty layered depth gives real atmosphere without any rendering artifacts breaking the illusion.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_58b457": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A luminous spiral of cloud-galaxy hangs over a still tree-lined lake, mirrored perfectly in the water below, starlight seeping through the gaps.",
+   "reason": "The threshold feeling is genuine \u2014 sky and water form a doubled portal, the atmosphere is vast and hushed, and the dream-wash rendering holds together without noise or artifact.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_f06966": {
+   "presence": 5,
+   "chorus": 3,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "A frost-veined leaf skeleton glowing translucent on marble, lit like a relic rather than a threshold.",
+   "reason": "It is a beautiful macro object study but stays fully grounded \u2014 there is no atmosphere, depth, or thinning of the world, so it doesn't read as a portal or Dreamscape piece.",
+   "redemption": "Push the surrounding blur into genuine soft-focus void, deepen the light into a glow that seems to come from beyond the leaf rather than off it, and let the composition open outward instead of pinning to a single close object \u2014 give it somewhere to lead the eye through."
+  },
+  "dreamscapes--portals_a4e805": {
+   "presence": 4,
+   "chorus": 5,
+   "vessel": 6,
+   "verdict": "HOLD",
+   "seen": "Two translucent glass-ribbon petals hang in warm, misty haze, catching hard starburst highlights.",
+   "reason": "It reads as a generic abstract 3D render of glass shapes rather than a door or threshold \u2014 there's atmosphere but no portal feeling, no sense of a world thinning, so the whisper isn't answered.",
+   "redemption": "Resolve the ribbons into an actual aperture or threshold form \u2014 a gap, seam, or frame the eye can pass through \u2014 and soften the sparkle highlights so the light feels like it's leaking from elsewhere rather than sitting on a CGI surface."
+  },
+  "dreamscapes--portals_e8d579": {
+   "presence": 4,
+   "chorus": 3,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "A tide-pool cairn at dusk with a sparkling path of reflected light, technically well-composed but grounded and literal rather than threshold-like.",
+   "reason": "It's a lovely rocks-and-water photograph with real atmosphere, but nothing here reads as a door, a thinning of the world, or a portal \u2014 it holds tranquility, not dreamscape awe, so it doesn't answer to the room's canon.",
+   "redemption": "Introduce an actual threshold element \u2014 a break in the water's surface, an impossible light source, a horizon that doesn't belong to this world \u2014 something that turns the glint into a doorway rather than just a sunset reflection."
+  },
+  "dreamscapes--portals_5cdd77": {
+   "presence": 6,
+   "chorus": 6,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "A dew-lit meadow path glowing gold in fog, atmospheric but grounded, more misty morning field than threshold to elsewhere.",
+   "reason": "The rendering is lovely and the light is genuinely luminous, but there's no portal feeling or sense of a thinning world \u2014 it reads as a nature photograph, not a door where the world thins, so the awe never tips into dream-wash otherworldliness.",
+   "redemption": "Introduce a genuine threshold cue \u2014 a break in the fog that reveals impossible light or depth, a warping of the grass path into something not-quite-earthly, or a horizon that doesn't resolve into ordinary trees \u2014 so the vast atmosphere reads as a doorway rather than a well-lit field."
+  },
+  "dreamscapes--portals_ee6b71": {
+   "presence": 6,
+   "chorus": 5,
+   "vessel": 6,
+   "verdict": "HOLD",
+   "seen": "A quiet still-life of dried baby's-breath and a kraft envelope lit by a sharp diagonal shaft of window light through gauzy fabric.",
+   "reason": "It has genuine threshold light and dream-wash atmosphere, but it reads as a moody product/still-life photo rather than a portal \u2014 there's no sense of vastness or a door where the world thins, just a lit corner of a room.",
+   "redemption": "Push the light shaft into something more impossible or vast \u2014 a glimpse of another space beyond it, deeper atmospheric falloff, or scale cues that suggest the fabric opens onto somewhere else, so the threshold feels like passage rather than d\u00e9cor."
+  },
+  "dreamscapes--portals_f95eda": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A worn stone archway overtaken by roots and moss stands as a literal threshold between a shadowed, overgrown grove and a luminous, wind-scoured coastal beyond.",
+   "reason": "The light-drenched portal reads as genuine threshold rather than decoration, and the dark-to-luminous gradient across the arch delivers real awe without tipping into gaudiness.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_32b465": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A stone archway framed in mist and forest opens onto a luminous sea horizon lit by a dissolving sunset, with worn steps leading toward the threshold.",
+   "reason": "The arch reads as a true portal rather than a picture-in-a-frame, and the dream-wash brushwork and light-through-threshold feeling deliver awe without noise, with only minor softness in the foreground foliage keeping it from a higher score.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_4f122a": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A stone archway at the top of a lit stairway opens onto a luminous cloud-lit sea, threshold and beyond held in one breath.",
+   "reason": "The arch reads as true portal light against a wash of dark foreground foliage, delivering awe and threshold feeling without noise or artifact.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_2c0186": {
+   "presence": 7,
+   "chorus": 7,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A luminous ring hollowed into a dark aperture at the center of a kaleidoscopic bloom of prismatic petals, like a portal glimpsed through fractured light.",
+   "reason": "It carries genuine threshold feeling \u2014 the pale ring reads as a door and the surrounding chromatic-aberration bloom gives it vast, dream-washed atmosphere without tipping into noise or obvious AI artifact.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_b7a98a": {
+   "presence": 4,
+   "chorus": 3,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "Two translucent, membrane-like curved shells lit from within by warm flares, floating against a soft gray-blue haze \u2014 more macro texture study than doorway.",
+   "reason": "The rendering is technically clean and atmospheric, but reads as an abstract material/lighting study rather than a threshold or portal \u2014 there's no sense of a world thinning or a door to somewhere, so the awe stays decorative instead of dreamlike.",
+   "redemption": "Give the shapes an implied depth or beyond \u2014 a glimpse of space, sky, or figure through the aperture \u2014 so the light reads as passing through a threshold rather than glowing off a surface."
+  },
+  "dreamscapes--portals_1a0b19": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A colossal whale standing on legs before a concentric ring-portal of golden clockwork light, a small red-cloaked figure witnessing the threshold in scattered silence of birds.",
+   "reason": "It holds vast atmosphere and true threshold light with awe that doesn't shout, and the whale's improbable stance reads as dream logic rather than broken anatomy.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_e009a1": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A stone-ice arch on a shore, veined with gold light, pouring molten radiance into a mist-wet, star-flecked sea.",
+   "reason": "The threshold reads as genuinely thin here \u2014 the gold seep through crystalline rock and the diffused fog make the portal feel discovered rather than dropped in, and the rendering carries the dream-wash haze the canon asks for.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_7136c3": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A slender mirrored door hangs suspended by threads in a churning dusk sky, its surface holding a denser, star-flecked version of the clouds and light around it.",
+   "reason": "The threshold feeling is literal and unforced \u2014 a portal-shaped panel that doesn't just reflect but seems to concentrate the world's own light through a thinning place, and the rendering stays atmospheric rather than slick.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_f13f63": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A glass-clear framed threshold hung by chains in a roiling dusk sky, catching sunfire in its lower pane like a door ajar between worlds.",
+   "reason": "It delivers the vast atmosphere and threshold light the canon demands, and the frame reads as a real portal rather than a flat overlay, with awe that stays quiet.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_f7c487": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A vertical shaft of warm light dissolving through concentric rippled bands into cool blue-green depth, like a portal seen through disturbed water.",
+   "reason": "It carries genuine threshold light and vast atmosphere with a hypnotic dream-wash rippling effect, and nothing breaks the spell \u2014 no artifacts, no dead composition, just quiet awe.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_c658d3": {
+   "presence": 5,
+   "chorus": 3,
+   "vessel": 6,
+   "verdict": "HOLD",
+   "seen": "A moth resting on dark volcanic sand, its wings dusted with glittering bioluminescent sparkle, lit close and intimate rather than vast.",
+   "reason": "This is a macro creature study, not a threshold \u2014 there's no door, no beyond, no atmosphere thinning into another world, so the portal feeling the canon demands never arrives.",
+   "redemption": "Open the frame so the moth becomes a small silhouette before a glowing aperture or rift in the dark \u2014 something the eye can pass through \u2014 so the piece carries a threshold instead of just a subject."
+  },
+  "dreamscapes--portals_ed0b81": {
+   "presence": 4,
+   "chorus": 3,
+   "vessel": 6,
+   "verdict": "HOLD",
+   "seen": "A macro water-droplet-and-ripple study \u2014 technically clean, glassy, and precise.",
+   "reason": "This reads as a stock-photography droplet render, not a threshold or door where the world thins; there is no portal feeling, no atmosphere beyond the concentric rings, and no dream-wash \u2014 it is crisp and literal where the canon calls for vast, hazed, awe-laden light.",
+   "redemption": "Rebuild toward an actual threshold: soften the rings into luminous atmosphere rather than sharp concentric grooves, push a glowing aperture or light-breach at the center that suggests passage rather than a droplet's mechanics, and let the dark field feel like depth/void instead of empty studio black."
+  },
+  "dreamscapes--portals_d77f31": {
+   "presence": 3,
+   "chorus": 2,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "A crisp macro water-drop ripple study \u2014 technically pristine, physically literal, with no atmosphere, threshold, or dream-wash to it.",
+   "reason": "It reads as clean stock photography of a droplet impact against black, not a portal or thinned world \u2014 there's no vastness, no light suggesting passage, no dream-logic, so it breaks canon by being too grounded and noise-free rather than awe-inducing.",
+   "redemption": "Replace the literal ripple with a luminous aperture or gateway motif \u2014 soft atmospheric depth, a light source implying 'beyond,' and a wash/blur treatment that dissolves the hard scientific clarity into dream logic."
+  },
+  "dreamscapes--portals_945fa3": {
+   "presence": 4,
+   "chorus": 3,
+   "vessel": 6,
+   "verdict": "HOLD",
+   "seen": "A macro water-droplet-and-ripple photograph, technically clean but essentially a stock/science-desktop image rather than a threshold into anywhere.",
+   "reason": "The piece reads as literal liquid physics on a dark backdrop \u2014 no atmosphere, no sense of scale, no light suggesting a world beyond; it holds craft but not the vast, portal-feeling awe the Dreamscape canon requires.",
+   "redemption": "Push it toward the impossible: let the ripple ring dissolve into stars or open sky at its edges, widen the sense of scale so the droplet reads as a small threshold suspended in vast dark space, and let the light at the rim feel like it's coming from somewhere else entirely."
+  },
+  "dreamscapes--portals_f09ce7": {
+   "presence": 8,
+   "chorus": 7,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A cathedral of glowing glass petals rises from a mirror-still salt lake at dusk, its inner light spilling toward a small procession approaching along a stone path.",
+   "reason": "The threshold feeling is genuine \u2014 the structure reads as a literal door between worlds, awe-struck and hushed, and the reflection doubles the portal without gimmick, though the human figures are slightly stiff and small compared to the atmosphere's grandeur.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_953983": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A lone silhouetted figure stands at a rocky threshold facing a vast, fractured sky of crystalline blue planes dissolving into cloud and mist.",
+   "reason": "The geometric sky-shards genuinely read as a world thinning at the seams, and the figure's stillness against that scale delivers awe without noise.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_aed385": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A lone silhouetted figure on a dark ridge gazes into a vast crystalline, cloud-veiled expanse cut by immense translucent shards of light.",
+   "reason": "It carries genuine threshold awe \u2014 scale, hush, and the shard-light architecture create real portal-feeling without noise, and the figure's small stillness against the vastness sells the door-where-the-world-thins whisper.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_fe4f5c": {
+   "presence": 5,
+   "chorus": 4,
+   "vessel": 8,
+   "verdict": "HOLD",
+   "seen": "A solitary gilded bonsai-like tree stands rooted in still, mist-blue water, its reflection doubling it into a quiet vertical symmetry.",
+   "reason": "The rendering is serene and technically clean, but it reads as a lone tranquil tree portrait rather than a threshold or door where the world thins \u2014 there's no portal feeling, no sense of atmosphere thinning into another realm, just a single subject centered in empty space.",
+   "redemption": "Introduce an actual aperture or seam in the scene \u2014 a gap in the mist, a break in the horizon, a glow suggesting depth beyond the water or sky \u2014 so the water or light itself becomes a passage rather than just a mirror."
+  },
+  "dreamscapes--portals_b25262": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A seated Buddha-silhouette dissolves into a swirling blue-teal vortex of light, back turned to the viewer as if just having crossed through.",
+   "reason": "The whirlpool of light genuinely reads as a threshold being passed through, and the figure's stillness against the churning water gives it real awe without noise.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_8bb32d": {
+   "presence": 7,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A single splash rising from still water, ringed by concentric ripples that carry a hazy horizon of fog and gold light \u2014 the moment a threshold opens between surface and depth.",
+   "reason": "It holds vast atmosphere, threshold light, and quiet awe exactly as the canon asks, and the eye reads as a genuine portal-moment rather than a generic water shot, with only mild rendering noise in the lower reflections that doesn't break the spell.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_9bda2a": {
+   "presence": 3,
+   "chorus": 3,
+   "vessel": 4,
+   "verdict": "HOLD",
+   "seen": "A pair of abstract mesh-textured husks \u2014 one gridded and thimble-like, one blurred with strung bokeh lights \u2014 floating in a cloudscape, with no legible threshold or door.",
+   "reason": "It reads as generic 3D-render abstraction rather than a portal or a place where the world thins; there's no architecture of a door, no felt threshold, just texture studies drifting in fog \u2014 the whisper is unearned.",
+   "redemption": "Rebuild around an actual aperture or seam in the world \u2014 light bleeding through a real edge or gap the eye can enter \u2014 so the atmosphere serves a threshold instead of floating free of one."
+  },
+  "dreamscapes--portals_abb27f": {
+   "presence": 7,
+   "chorus": 6,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A single arched threshold bleeding cold-white light into a dark reflective void, floor mirroring the glow like still water.",
+   "reason": "The composition delivers genuine threshold-awe and quiet dream-wash restraint, though the render leans more product-render clean than atmospheric, keeping it from full transcendence.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_071745": {
+   "presence": 5,
+   "chorus": 4,
+   "vessel": 5,
+   "verdict": "HOLD",
+   "seen": "A glassy, mirror-fluid shard cupping a sunset-orange glow against dark neon-veined streaks \u2014 a CGI hero-render more than a threshold.",
+   "reason": "It reads as a polished 3D render of a light-catching object rather than a vast dreamscape with portal-feeling; the tight product-shot framing and glassy material study give spectacle without the atmospheric awe or thinning-of-the-world sensation the canon and whisper ask for.",
+   "redemption": "Pull back into a larger atmospheric space around the form, soften the glassy CG sheen into dream-wash haze, and let the orange glow suggest an opening beyond rather than light trapped inside an object."
+  },
+  "dreamscapes--portals_997399": {
+   "presence": 3,
+   "chorus": 5,
+   "vessel": 6,
+   "verdict": "HOLD",
+   "seen": "A glossy molten-glass blob catching a lava-glow reflection against a black void \u2014 a render study, not a threshold.",
+   "reason": "It reads as a product-shot of liquid glass rather than a door where the world thins; there is no vast atmosphere, no portal geometry, no sense of passage, only surface and specular flare.",
+   "redemption": "Open the form into an actual aperture or gap the eye can pass through, pull the camera back into surrounding space so scale and atmosphere register, and let the light suggest a beyond rather than just a reflection on a solid object."
+  },
+  "dreamscapes--portals_950e6e": {
+   "presence": 5,
+   "chorus": 4,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "A molten shard of glass caught mid-fracture against a streaked void, more object than opening.",
+   "reason": "It reads as a rendered artifact \u2014 a glossy CG trinket lit for a product shot \u2014 rather than a threshold thinning into another world; the light-streaks feel decorative, not atmospheric, so it never opens into a portal.",
+   "redemption": "Soften the hard specular/glass shading into vapor and depth, let the light-lines dissolve into the dark as if space itself is parting rather than a solid object catching studio light, and give the eye somewhere to fall through rather than land on."
+  },
+  "dreamscapes--portals_6a629f": {
+   "presence": 6,
+   "chorus": 5,
+   "vessel": 6,
+   "verdict": "HOLD",
+   "seen": "A molten glass-fluid form suspended in void, lit from within by starburst flares, closer to a studio product render than an atmospheric threshold.",
+   "reason": "It has heat and shine but reads as an object floating in black space rather than a vast atmosphere or a door thinning the world \u2014 the 'portal feeling' and dream-wash of the canon are absent, replaced by crisp glassy specularity and streaking lens-flare lines that feel more digital-render than dream.",
+   "redemption": "Soften the hard reflective glass surface into mist/haze, dissolve the sharp streak-lines into atmospheric fog, and let the light bloom outward into a threshold/horizon rather than sitting as a contained lens-flare object."
+  },
+  "dreamscapes--portals_e66cb1": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 8,
+   "verdict": "PASS",
+   "seen": "A translucent, luminous sphere pierced by streaking golden rings, hovering in a starfield like a threshold caught mid-breath.",
+   "reason": "It holds vast atmosphere and threshold light exactly as the canon asks \u2014 the orb reads as a membrane between worlds rather than a mere planet portrait, and the linework/canvas grain keep it painterly rather than synthetic.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_3ecbb6": {
+   "presence": 7,
+   "chorus": 6,
+   "vessel": 8,
+   "verdict": "PASS",
+   "seen": "A radiant star cradled in spiraling rings of cosmic dust, glowing like a threshold opening between darkness and light.",
+   "reason": "It carries real awe and a genuine portal geometry \u2014 concentric rings drawing the eye inward to a blinding core \u2014 though it reads closer to astrophotography than dream-wash, keeping the chorus with its Line just short of full resonance.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_6f26f6": {
+   "presence": 5,
+   "chorus": 4,
+   "vessel": 6,
+   "verdict": "HOLD",
+   "seen": "A star-field/aurora split down a hard vertical seam, with a bright comet-like starburst piercing the boundary and a jagged reef-like ridge along the bottom.",
+   "reason": "The two-pane grid reads as a technical diagram or textile swatch rather than a threshold \u2014 the ruled panel lines flatten the atmosphere into segments instead of dissolving it into a doorway, so the awe curdles into noise and the dream-wash gives way to a hatched, engraving-like texture that breaks the spell of thinning.",
+   "redemption": "Remove the ruled grid lines entirely, let the starfield and aurora-green bleed into one continuous atmosphere, and soften the hatch-like brushwork into a hazier, more luminous wash so the comet-light reads as a portal opening rather than a seam between two swatches."
+  },
+  "dreamscapes--portals_77eee9": {
+   "presence": 6,
+   "chorus": 7,
+   "vessel": 6,
+   "verdict": "HOLD",
+   "seen": "A paneled sky split between a crystalline starfield and a wind-streaked aurora over a moonrise coastline, with genuine threshold geometry between the two halves.",
+   "reason": "The literal panel-seam split gives a strong 'door' concept and the moonrise is lovely, but the right half's aggressive directional streaking reads as a texture/motion-blur filter rather than atmosphere, flattening the dream-wash into something more graphic than luminous.",
+   "redemption": "Soften the right-hand streak texture into diffuse glow and haze so it reads as thinning atmosphere rather than a wind-shader effect, letting the portal light breathe instead of scraping across the frame."
+  },
+  "dreamscapes--portals_69bbd5": {
+   "presence": 5,
+   "chorus": 4,
+   "vessel": 6,
+   "verdict": "HOLD",
+   "seen": "A paneled sky split between a calm starfield and a raked, wind-torn aurora hemisphere with a moon caught at the seam.",
+   "reason": "The panel-grid device reads as a literal binaural/technical diagram overlay rather than a threshold thinning into another world, and the streaked right half feels textured-noise rather than atmosphere, so the portal ache the whisper promises doesn't quite land.",
+   "redemption": "Soften or remove the harsh vertical rulings so the seam feels like a dissolve rather than a spreadsheet, and let the moon/light-band breathe as the true threshold rather than competing with grid lines."
+  },
+  "dreamscapes--portals_5a93f8": {
+   "presence": 7,
+   "chorus": 6,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A moon-disc caught at the exact seam between a starfield night and a churning teal-white gale, with a molten red shoreline breaking beneath it \u2014 a threshold rendered as literal collision of two atmospheres.",
+   "reason": "The grid-line seams read as panes of a door and the moon sits precisely on the hinge between stillness and storm, giving real portal-feeling and awe, though the mechanical evenness of the vertical dividers keeps it just short of full dream-wash softness.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_5a5611": {
+   "presence": 5,
+   "chorus": 4,
+   "vessel": 6,
+   "verdict": "HOLD",
+   "seen": "A comet-lit horizon over a jagged red ridge, split into two panels \u2014 a quiet starfield and a bright textured aurora-comet burst.",
+   "reason": "It reads as a cosmic vista, not a threshold \u2014 the composition is a side-by-side sky/comet split rather than a door or portal, so the promised thinning of worlds never quite opens.",
+   "redemption": "Introduce an actual aperture or seam of light in the composition \u2014 a gap, arch, or vanishing point the eye can pass through \u2014 rather than two skies simply abutting each other, so the piece reads as a door rather than a diptych."
+  },
+  "dreamscapes--portals_2596b6": {
+   "presence": 4,
+   "chorus": 3,
+   "vessel": 5,
+   "verdict": "HOLD",
+   "seen": "A comet or flare bursting into a striated, glitch-paneled aurora over a rocky shoreline, more collage than portal.",
+   "reason": "The vertical seams read as compositing artifacts rather than intentional grid architecture, and the motion-blur texture is noisy rather than atmospheric, breaking the dream-wash spell and leaving no threshold or door-feeling \u2014 just a bright streak crossing panels.",
+   "redemption": "Remove the harsh literal panel divisions or make them feel like deliberate portal-seams with soft light bleed, slow the motion-blur into a hazier dream-wash, and give the bright point an actual doorway/aperture quality rather than a comet-tail streak."
+  },
+  "dreamscapes--portals_624ecb": {
+   "presence": 6,
+   "chorus": 4,
+   "vessel": 5,
+   "verdict": "HOLD",
+   "seen": "A stark two-panel split \u2014 starfield left, a massive glowing planet streaked by comet-wind teal fibers right \u2014 with a jagged alien horizon underneath.",
+   "reason": "The hard vertical grid-lines slicing the whole canvas read as a literal panel-seam/render artifact rather than an atmospheric threshold, breaking the dream-wash and turning awe into a diagram.",
+   "redemption": "Remove or dissolve the vertical seam lines so the two halves blend as one continuous atmosphere, letting the light and texture carry the threshold instead of a ruled grid."
+  },
+  "dreamscapes--portals_871d84": {
+   "presence": 5,
+   "chorus": 4,
+   "vessel": 6,
+   "verdict": "HOLD",
+   "seen": "A starfield tearing sideways into a bright auroral rift over an icy ridge, split by hard panel gutters.",
+   "reason": "The vortex-to-aurora transition has genuine threshold energy, but the six mechanical dividers chop the atmosphere into disconnected strips and read as a grid overlay rather than a portal, breaking the dream-wash immersion the canon demands.",
+   "redemption": "Remove or drastically soften the vertical divider lines so the starfield and aurora bleed into one continuous atmosphere, letting the light-rift itself be the only threshold."
+  },
+  "dreamscapes--portals_467aa2": {
+   "presence": 6,
+   "chorus": 6,
+   "vessel": 5,
+   "verdict": "HOLD",
+   "seen": "A paneled star-chart night giving way to a comet or icy planet streaked with wind-blown light and a rocky shoreline below.",
+   "reason": "The starfield-to-comet composition has genuine atmosphere, but the seven hard vertical panel-seams read as a technical diagram grid rather than a threshold, and there's no single portal or door-shape for the eye to pass through, so the piece never opens into a doorway \u2014 it stays a diagram of space, not a thinning of the world.",
+   "redemption": "Remove or soften the panel divisions so the image reads as one continuous atmosphere, and carve a clearer aperture (a gap, a glow, a break in the horizon) that the eye can read as a threshold rather than a chart."
+  },
+  "dreamscapes--portals_761994": {
+   "presence": 7,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A vertical seam of blinding white light tearing between a deep starfield and a rippling teal-green expanse, like two worlds pressed against a single membrane about to give way.",
+   "reason": "The threshold is literal and physical \u2014 the fracture line reads as genuine passage rather than decoration, and the dual-toned split delivers awe without noise, though the divide is slightly more graphic-design-clean than dream-wash.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_be0d28": {
+   "presence": 7,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A two-paneled threshold \u2014 bright rain-streaked ocean horizon above, a glowing arced portal of light over a dark starlit sea below \u2014 split by faint vertical seams like a stellar grid.",
+   "reason": "It genuinely reads as a door where the world thins: both halves push toward radiant thresholds with real atmosphere and light, and the paneling reinforces the portal/grid feeling rather than breaking it.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_6b2935": {
+   "presence": 8,
+   "chorus": 7,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A blazing white star with a comet-tail aurora sweeping across a paneled sky over an alien horizon, split into vertical strata like a threshold being crossed panel by panel.",
+   "reason": "The panel-seams read as literal doorframes into deep space and the light genuinely thins the dark into a portal \u2014 awe without noise, dream-wash intact.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_e30b78": {
+   "presence": 6,
+   "chorus": 5,
+   "vessel": 6,
+   "verdict": "HOLD",
+   "seen": "A calm starfield giving way to a wind-streaked green-white nebula burst over a rust-colored ridgeline, split by faint panel gridlines.",
+   "reason": "It has genuine atmosphere and scale, but the visible seam/grid lines across the canvas read as a compositing artifact rather than an intentional threshold, and the streaking nebula feels more like weather than a door \u2014 the portal/threshold sensation the name promises never quite opens.",
+   "redemption": "Resolve or intentionally reframe the vertical seams as a deliberate paned-glass or portal-frame motif (not a stitching artifact), and give the bright orb a clearer sense of an aperture or gateway \u2014 something the eye can pass through \u2014 rather than a diffuse comet-like glow."
+  },
+  "dreamscapes--portals_56bb3c": {
+   "presence": 8,
+   "chorus": 7,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A gridded threshold where a starlit night sky abruptly gives way to a churning teal cosmic wave crashing onto rust-colored shores, split by a half-lit moon at the seam.",
+   "reason": "The two-pane divide reads exactly as a door where the world thins \u2014 the grid lines feel like panes of glass or a portal's structure rather than an artifact, and the moon anchors the threshold with quiet gravity.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_01027f": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A vertical seam splits a starfield from a vast curved wave of teal light, both halves meeting at a soft white bloom on the horizon like a door standing open between two skies.",
+   "reason": "The bisected composition and the horizon-bloom genuinely read as a threshold \u2014 the diptych seam does the work of a door where the world thins, and the dream-wash rendering carries awe without noise.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_d51559": {
+   "presence": 4,
+   "chorus": 6,
+   "vessel": 5,
+   "verdict": "HOLD",
+   "seen": "A comet/star burning across a paneled sky-and-sea diptych grid, more astronomical illustration than threshold.",
+   "reason": "It reads as a starfield-and-comet study over a rocky shoreline \u2014 the panel-grid device fractures the atmosphere into flat vertical strips rather than opening a portal, so the door-where-the-world-thins feeling never arrives.",
+   "redemption": "Dissolve or soften the hard vertical seams so the comet's light bleeds continuously across the frame, and give the bright orb an actual aperture \u2014 a warped or glowing edge \u2014 that reads as a threshold being crossed rather than a bright object simply lighting a grid of panels."
+  },
+  "dreamscapes--portals_2df258": {
+   "presence": 4,
+   "chorus": 3,
+   "vessel": 6,
+   "verdict": "HOLD",
+   "seen": "A left panel of quiet starfield beside a right panel of a comet or blast erupting over a red desert horizon, split by hard vertical grid lines.",
+   "reason": "The grid seams read as a technical/data-visualization artifact rather than a door thinning the world, and the composition splits into two unrelated scenes instead of coalescing into one threshold \u2014 the awe is fractured, not focused, breaking the dream-wash spell the canon calls for.",
+   "redemption": "Remove the hard-edged column dividers and unify the piece into one continuous atmosphere, letting the bright comet-nucleus itself function as the portal \u2014 a single seamless threshold of light rather than a paneled diagram."
+  },
+  "dreamscapes--portals_a92157": {
+   "presence": 6,
+   "vessel": 7,
+   "chorus": 4,
+   "verdict": "HOLD",
+   "seen": "A starfield split by hard panel divisions into a streaking comet-blaze surging across a green nebular wash above a rocky ridge.",
+   "reason": "The rendering is atmospheric and the light-burst has real force, but the piece reads as a dynamic astral event rather than a threshold \u2014 there's motion and spectacle, not the stillness of a door or the sense of a world thinning, so the whisper doesn't land.",
+   "redemption": "Soften the comet's directional violence into something more like an aperture or gate of light \u2014 a point the eye can pass through rather than a streak it follows \u2014 and let the green wash breathe as atmosphere rather than a hard-edged backdrop, so the panel feels like a threshold instead of a snapshot of momentum."
+  },
+  "dreamscapes--portals_36a09c": {
+   "presence": 8,
+   "chorus": 7,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A luminous comet-body burning through a paneled star-streaked sky, its light splitting the frame into a threshold between deep blue night and phosphorescent green dawn.",
+   "reason": "The panel-grid structure reads as a portal aperture and the raw white core genuinely feels like a place where the world thins, carrying threshold light and awe without slipping into noise or artifact.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_455f28": {
+   "presence": 8,
+   "chorus": 5,
+   "vessel": 8,
+   "verdict": "PASS",
+   "seen": "A vast comet-star tearing across a deep-blue-to-verdant sky above a shoreline, its light streaking down into the sea like a beam trying to touch the earth.",
+   "reason": "It genuinely holds threshold light and awe-without-noise \u2014 the blown-out star and its streaking tail feel like a thinning membrane between worlds \u2014 though the rigid panel-grid overlay works more as a stylistic device than an organic dream-wash, keeping it just short of full atmospheric immersion.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_69ef45": {
+   "presence": 7,
+   "chorus": 6,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A star-bright threshold blazing against a starfield, its light combed outward into a vast feathered/oceanic teal veil that could be wing, wave, or void-membrane all at once.",
+   "reason": "It genuinely reads as a door where the world thins \u2014 the horizon line cuts across the radiant point like a seam between realities, and the fibrous teal mass has real atmosphere and awe without tipping into noise or gimmick.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_cae608": {
+   "presence": 8,
+   "vessel": 7,
+   "chorus": 7,
+   "verdict": "PASS",
+   "seen": "A quiet starfield splits into a rocky shoreline beneath a vast luminous aurora-comet-tide surging in from the edge of space, paneled like a folding screen at the threshold between two worlds.",
+   "reason": "The paneled seam reads as an actual threshold rather than a stitching flaw, and the scale gap between the still, sparse stars and the roaring bioluminescent surge delivers real awe without noise or artifact.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_072261": {
+   "presence": 6,
+   "vessel": 5,
+   "chorus": 4,
+   "verdict": "HOLD",
+   "seen": "A blazing comet or celestial eye tearing across a striated star-streaked sky above a jagged rust-colored ridge and cresting wave of light.",
+   "reason": "The comet-head is a genuinely luminous threshold point, but the piece reads as a data-visualization panel grid rather than an atmospheric portal \u2014 the sharp vertical dividing lines and evenly banded color panels turn the composition into a chart, breaking the dream-wash immersion the canon demands.",
+   "redemption": "Remove or soften the ruler-straight vertical seams so the panels bleed into one continuous atmosphere, and let the color transition (navy to teal) happen as a gradient wash rather than discrete bands, so the eye feels drawn through a threshold instead of reading columns."
+  },
+  "dreamscapes--portals_d078ac": {
+   "presence": 4,
+   "chorus": 5,
+   "vessel": 3,
+   "verdict": "HOLD",
+   "seen": "A literal hard seam splitting a starfield from an aurora-textured wall, with grid lines striping the whole canvas like a technical diagram.",
+   "reason": "The visible panel-grid and hairline dividers read as artifact/render-mesh rather than atmosphere, breaking the dream-wash spell before any threshold-light feeling can land.",
+   "redemption": "Remove the vertical grid seams and binaural-panel divisions entirely so the starfield and aurora-wall blend as one continuous atmosphere, letting the bright vertical band read as an actual portal edge rather than a canvas stitch."
+  },
+  "dreamscapes--portals_eaaf10": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 8,
+   "verdict": "PASS",
+   "seen": "A starfield abruptly gives way through a vertiginous panel-grid into a churning aurora-lit sky over icy mountain waves, with a vortex-like comet or wormhole of light as the hinge.",
+   "reason": "The paneled seam reads as an actual threshold between two worlds rather than a gimmick, and the light vortex sells the 'door where the world thins' whisper with real atmospheric depth and dream-wash texture.",
+   "redemption": ""
+  },
+  "dreamscapes--portals_4a99c8": {
+   "presence": 6,
+   "chorus": 4,
+   "vessel": 6,
+   "verdict": "HOLD",
+   "seen": "A paneled sky split between quiet starfield and a searing comet-wash breaking over dark sea cliffs.",
+   "reason": "The right half carries real threshold atmosphere, but the abrupt hard-edged seam between calm star-panels and the blazing comet reads as a collage cut rather than a dream-thinned membrane, breaking the portal spell into two unrelated paintings.",
+   "redemption": "Soften or thin the panel seam so the starfield bleeds into the comet-light gradually \u2014 let the threshold feel like an opening in one atmosphere, not a hard border between two different images."
+  },
+  "goddesses-and-muses_158b0f": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A robed figure moving through a shadowed archway, lantern held aloft, its glow contained and steady rather than blazing.",
+   "reason": "The controlled, warm lanternlight against the cool ruin-stone reads exactly as light carried rather than spilled, and the dignified stride and gaze keep the reverence intact without kitsch or distortion.",
+   "redemption": ""
+  },
+  "goddesses-and-muses_dd3ed5": {
+   "presence": 5,
+   "chorus": 3,
+   "vessel": 4,
+   "verdict": "HOLD",
+   "seen": "A hooded, faceless cloaked figure carrying a torch, its robe scattered with embers that never gather into a coherent light source.",
+   "reason": "The composition reads as a spectral wanderer, not a Muse who carries light without spilling it \u2014 the embers scatter outward as noise rather than being held, and the crop/inset panel breaks the frame's unity while the face is voided entirely, undermining the dignity and reverence the canon demands.",
+   "redemption": "Resolve the face into a luminous, dignified presence (even partially veiled) so held light has a source and destination, unify the composition into a single frame without the detached inset, and let the gold gather intentionally \u2014 cradled in the hands or pooling at the hem \u2014 rather than dispersing as random sparks."
+  },
+  "goddesses-and-muses_ee1de9": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A barefoot lantern-bearer emerging from a dark archway, downcast eyes and cupped light rather than radiating glory, carrying devotion quietly instead of announcing it.",
+   "reason": "The muted palette, humble bare feet, and the lantern's contained glow embody 'carries the light without spilling it' with genuine reverence and no kitsch or distortion.",
+   "redemption": ""
+  },
+  "goddesses-and-muses_d2dcb1": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A monastic figure haloed in radiating light, hands pressed in prayer around a single blue spark, eyes closed in composed devotion.",
+   "reason": "The praying hands cradling one small point of light literalize 'carries the light without spilling it,' and the sacred stillness of the pose and radiance holds without tipping into kitsch or distortion.",
+   "redemption": ""
+  },
+  "goddesses-and-muses_97aacf": {
+   "presence": 8,
+   "chorus": 7,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A profile figure in prayer-clasped hands, eyes closed, dissolved into crystalline white-and-iridescent light so that she and the atmosphere become one held breath.",
+   "reason": "The devotional posture and closed eyes read as genuine reverence rather than costume, and the light surrounds her without overwhelming her face or hands, so the piece keeps its dignity and quiet.",
+   "redemption": ""
+  },
+  "goddesses-and-muses_6bbbd2": {
+   "presence": 8,
+   "chorus": 6,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "A luminous robed figure caught mid-turn in profile, her form dissolving into feathered light and sacred smoke before dark columns.",
+   "reason": "The figure carries genuine reverence and dignity, but garbled AI-artifact text along the bottom border breaks the devotional spell.",
+   "redemption": "Remove or replace the nonsensical inscription at the base with clean typography or no text at all."
+  },
+  "goddesses-and-muses_f35713": {
+   "presence": 3,
+   "vessel": 5,
+   "chorus": 2,
+   "verdict": "HOLD",
+   "seen": "A faceless hooded figure in pale robes carries a burning staff, entirely turned away or voided of face, with generic close-up crops of empty cloth folds standing in for detail shots.",
+   "reason": "The whisper promises a muse who carries light without spilling it, but this is an anonymous cloaked wraith with no face, no gaze, no human presence to embody reverence \u2014 it reads as staff-and-robe concept art, not a devotional figure, and the room calls for luminous dignity this piece never offers.",
+   "redemption": "Give her a visible face or at least a suggestion of features catching the torchlight \u2014 some contact between the light she carries and a countenance \u2014 so the piece holds a presence rather than an empty hood, and let the flame's glow touch her rather than only the fabric."
+  },
+  "goddesses-and-muses_40ed96": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A pale figure tilts her face upward into a falling column of light, throat and collarbone catching the glow like water made of radiance, eyes closed in surrender.",
+   "reason": "The luminous cascade running down the throat reads exactly as light held rather than spilled, and the closed-eyed upward tilt gives it genuine reverence without tipping into kitsch.",
+   "redemption": ""
+  },
+  "goddesses-and-muses_754999": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A hooded, cloaked figure standing in still dark water beneath a golden ring of light, holding a staff, gold script bleeding quietly through her robes.",
+   "reason": "The halo and staff read as carried radiance rather than displayed spectacle, the hooded stillness and water reflection give it genuine reverence without kitsch, and the anatomy and drapery hold together cleanly.",
+   "redemption": ""
+  },
+  "goddesses-and-muses_c2a6c5": {
+   "presence": 8,
+   "vessel": 7,
+   "chorus": 7,
+   "verdict": "PASS",
+   "seen": "A hooded, veiled figure walks in profile through indigo mist, staff in hand, wrapped in gold sigil-circles like a held aureole of light.",
+   "reason": "The composition and restrained gold linework literally embody 'carries the light without spilling it' \u2014 dignified, sacred atmosphere, no distortion or kitsch, and it sits comfortably beside a devotional canon of luminous reverence.",
+   "redemption": ""
+  },
+  "goddesses-and-muses_5d6415": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A pale, gold-crowned figure in profile sits luminous and composed within a halo of oceanic teal and gilded ornament, eyes closed in quiet devotion.",
+   "reason": "The radiant halo, serene closed-eye profile, and restrained gold-on-teal palette carry genuine reverent stillness with no distortion or kitsch breaking the spell.",
+   "redemption": ""
+  },
+  "goddesses-and-muses_560104": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A veiled profile dissolving into feathered, dust-lit dark \u2014 a face caught mid-glow between shadow and inner light, holding rather than emitting radiance.",
+   "reason": "The light gathers in her without spilling past her, and the surrounding textures read as reverent atmosphere rather than noise, matching the Devotional Radiance canon with no distortion or kitsch.",
+   "redemption": ""
+  },
+  "goddesses-and-muses_4463a4": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A silhouetted figure in profile, head bowed, wreathed in luminous blue hair and light that streams outward like an aura she contains rather than sheds.",
+   "reason": "The light gathers around her and clings to her form instead of scattering into the void, giving the piece a held, reverent quietness that matches the whisper without tipping into spectacle or distortion.",
+   "redemption": ""
+  },
+  "goddesses-and-muses_fd1d16": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A dark silhouetted figure stands wreathed in luminous filaments of blue light that spiral upward and outward like a robe made of captured lightning.",
+   "reason": "The figure's contained silhouette against the wild, spreading luminance genuinely reads as light held rather than released, and the sacred, cool-toned atmosphere carries reverence without tipping into gaudiness.",
+   "redemption": ""
+  },
+  "goddesses-and-muses_bcd7e9": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A crowned, gold-laced figure sits in perfect composed stillness by a moonlit sea, her light held inward rather than radiating outward.",
+   "reason": "The reverent posture, restrained luminosity, and echo between her crown and the crescent moon fulfill the whisper of carrying light without spilling it, and the softness in the hands is minor enough not to break the devotional spell.",
+   "redemption": ""
+  },
+  "goddesses-and-muses_f99e9c": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A seated figure haloed in gold, cradling small flames at her fingertips while flowering stems glow around her in reverent stillness.",
+   "reason": "The stylized dignity, downcast gaze, and contained inner light fulfill 'carries the light without spilling it' with no distortion breaking the devotional atmosphere.",
+   "redemption": ""
+  },
+  "goddesses-and-muses_e1892c": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A pale, robed figure in profile kneels in gentle prayer beneath a gilded halo, surrounded by drifting white koi in a deep teal current.",
+   "reason": "The bowed head, closed eyes, and cupped hands hold genuine reverence, and the ornate halo reads as sacred radiance rather than decoration, with no distortion or AI artifacting breaking the illusion.",
+   "redemption": ""
+  },
+  "goddesses-and-muses_bc8b91": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A pale, downcast figure haloed in a jeweled emerald medallion, robed in ivory and gold lace, folding her hands in quiet devotion amid dried white blooms.",
+   "reason": "The closed eyes, restrained gesture, and radiant halo carry genuine reverence and stillness without lapsing into kitsch or showing distortion, though the left hand's finger articulation is slightly soft.",
+   "redemption": ""
+  },
+  "goddesses-and-muses_6412de": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 8,
+   "verdict": "PASS",
+   "seen": "A haloed figure in ornate red-and-gold robes stands in prayer over a rising bloom of pale light, eyes closed, holding still radiance rather than releasing it.",
+   "reason": "The closed eyes, folded hands, and contained glow at her core embody restraint and reverence with clean linework and no distortion, fully answering the whisper.",
+   "redemption": ""
+  },
+  "goddesses-and-muses_b5691b": {
+   "presence": 6,
+   "chorus": 6,
+   "vessel": 5,
+   "verdict": "HOLD",
+   "seen": "A silhouetted profile dissolving into constellations and combed light-lines, more cosmic texture study than devotional figure.",
+   "reason": "The face is swallowed by the effect \u2014 no visible eyes, no gaze to receive, so the light reads as decoration rather than something she carries; the whisper needs a face that holds still enough to be seen.",
+   "redemption": "Let the profile emerge with a visible eye and calm bearing so the sparks feel held by her rather than erasing her."
+  },
+  "goddesses-and-muses_58d16b": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A veiled figure with silvered hair and lowered eyes holds herself in soft, glinting light against a gilded throne-back, luminous without excess.",
+   "reason": "The reverence and restraint of the whisper land \u2014 light gathers on her cheekbone and the veil's mesh without spilling into spectacle, and the closed eyes and gathered hand read as devotion rather than distortion or kitsch.",
+   "redemption": ""
+  },
+  "goddesses-and-muses_d84f3b": {
+   "presence": 8,
+   "chorus": 7,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A luminous figure kneels in backlit twilight grass, head tilted skyward, wrapped in glowing translucent fabric that seems woven from the light itself.",
+   "reason": "The composition holds its reverence without spectacle \u2014 the light gathers in the cloth and hair rather than spilling, and the closed-eyed upward tilt reads as devotion, not distortion.",
+   "redemption": ""
+  },
+  "lunar_b0c610": {
+   "presence": 6,
+   "chorus": 5,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "A thin crescent moon caged inside a thin drawn circle, adrift in a deep teal cloud-sea with a faint golden nebular glow beneath.",
+   "reason": "The moonlit stillness and patient cloudscape are genuinely felt, but the crisp graphic ring around the crescent reads as an applied design element rather than something the sky itself would hold, breaking the spell of quiet celestial patience.",
+   "redemption": "Remove or dissolve the geometric circle so the crescent sits alone in the clouds \u2014 let the moon's own light and the cloud-glow do the framing instead of a drawn ring."
+  },
+  "lunar_070296": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 8,
+   "verdict": "PASS",
+   "seen": "A thin gold-ringed moon parting a chasm of dark teal storm clouds, lit from within by a soft downward shaft of light and drifting gold dust.",
+   "reason": "The image holds genuine stillness and self-contained luminosity \u2014 the moon is quiet and withheld rather than announced, matching the whisper exactly, with clean technical execution and no artifacts breaking the spell.",
+   "redemption": ""
+  },
+  "lunar_0bf5e6": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 8,
+   "verdict": "PASS",
+   "seen": "A dark moon eclipsed against nebulous storm-cloud light, ringed in a faint golden halo, hanging silent above a churn of luminous cloud.",
+   "reason": "It carries genuine stillness and self-contained mystery \u2014 the moon truly looks like it is withholding something, and the composition is clean and uncluttered enough to let that read; nothing here breaks the spell.",
+   "redemption": ""
+  },
+  "lunar_874b8a": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A thin ring of new-moon light hangs alone in a vertical shaft of pale glow above dark drifting cloud, stars scattered in cool teal-black silence.",
+   "reason": "It holds stillness and celestial patience without straining for spectacle, and its restraint reads as intention rather than emptiness, matching the Lunar Quiet canon.",
+   "redemption": ""
+  },
+  "lunar_db8717": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A small hard moon held inside a loose golden ring, adrift in dense storm-cloud, keeping its own scale against the enormity around it.",
+   "reason": "The composition genuinely enacts the whisper \u2014 a tiny sovereign point of light withholding itself amid overwhelming cloud, restrained and luminous rather than spectacular, with no artifacts breaking the stillness.",
+   "redemption": ""
+  },
+  "lunar_b7934b": {
+   "presence": 4,
+   "chorus": 4,
+   "vessel": 6,
+   "verdict": "HOLD",
+   "seen": "Two overlapping translucent orbs with crackled gold veining hovering above a dark textured ridge, ringed by a faint orbiting arc.",
+   "reason": "The doubled-moon device and the extraneous thin orbit-ring read as decorative repetition rather than quiet celestial patience, diluting the single, sovereign presence the whisper asks for.",
+   "redemption": "Reduce to one moon, drop the encircling arc line, and let the crackled gold texture and its reflection on the ridge carry the stillness alone."
+  },
+  "lunar_ba27a3": {
+   "presence": 7,
+   "chorus": 6,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A slender crescent moon withholds itself behind heaving, gold-flecked storm clouds, its light barely permitted through.",
+   "reason": "It passes because the moon truly reads as keeping its own counsel \u2014 veiled, sparing, unbothered by the turbulence around it \u2014 though the piece leans busier and stormier than the 'minimal' promise of the Lunar Quiet canon.",
+   "redemption": ""
+  },
+  "minimal-line-art_e5d84f": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A jagged snow range and its lake mirror both anchored beneath a single point radiating concentric halos across the whole sky",
+   "reason": "The ring motif and the water's answering shaft of light genuinely converge on the still point, giving real awe-scale symmetry without dead or artifact-broken geometry",
+   "redemption": ""
+  },
+  "minimal-line-art_2dbf2d": {
+   "presence": 3,
+   "chorus": 2,
+   "vessel": 5,
+   "verdict": "HOLD",
+   "seen": "A single vertical beam of light falling onto a dark shoreline, flanked by dotted data-plot lines and a stray red scatter-trace.",
+   "reason": "The canon calls for concentric rings/halos and radiating symmetry around a still point, but this piece shows a single linear column with no ring, halo, or radiating structure \u2014 it names a peak and gives a beam, breaking the essence rather than the spell of execution.",
+   "redemption": "Rebuild the light as true concentric rings or a halo radiating outward from one point above the terrain, removing the dotted plot-lines and red trace so the vertical falls away in favor of circular/radial symmetry."
+  },
+  "minimal-line-art_3015ac": {
+   "presence": 7,
+   "chorus": 4,
+   "vessel": 8,
+   "verdict": "HOLD",
+   "seen": "A radiant golden pillar splits a concentric dot-woven dome of teal-to-indigo sky, dissolving into a marbled blue swell at its base.",
+   "reason": "The still point and its rings are genuinely mesmerizing and the halo motif is honored, but there is no real terrain anywhere \u2014 the marbled base reads as abstract paint, not a landscape threshold, so it doesn't sing with the Visionary Cosmic Landscape canon's vista requirement.",
+   "redemption": "Ground the base in an actual terrain silhouette \u2014 mountains, dunes, or a horizon line \u2014 so the pillar of light lands on a recognizable vista rather than dissolving into abstract marbling."
+  },
+  "minimal-line-art_ae7f69": {
+   "presence": 8,
+   "chorus": 6,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A single golden thread of light pierces a vast, dot-woven halo of concentric rings that deepen from teal at the crown to indigo at the base, dissolving into swirling cloud-water below.",
+   "reason": "The still-point light and its encircling rings deliver the whisper with awe-scale symmetry and clean, artifact-free execution, though the 'real terrain' of the canon is only hinted at by the turbulent base rather than a true vista.",
+   "redemption": ""
+  },
+  "minimal-line-art_10ea05": {
+   "presence": 4,
+   "chorus": 2,
+   "vessel": 5,
+   "verdict": "HOLD",
+   "seen": "A vertical funnel of particulate light-dust plunging from the sky into a dark sea, converging on one bright point.",
+   "reason": "The whisper promises rings encircling a still point, but the piece shows a linear downward cone with no concentric or radiating ring structure, so it doesn't sing with the Visionary Cosmic Landscape canon or its own name.",
+   "redemption": "Rework the light structure into actual concentric rings/halos radiating outward from the still point rather than a single converging shaft, and let real terrain (not open water) anchor the threshold between physical and cosmic."
+  },
+  "minimal-line-art_0dac9b": {
+   "presence": 2,
+   "chorus": 1,
+   "vessel": 4,
+   "verdict": "HOLD",
+   "seen": "A featureless dark teal gradient field with concentric moir\u00e9 rings converging on a single small gold dot, with no terrain, horizon, or vista present.",
+   "reason": "The canon demands real terrain, luminous radiating light over an actual landscape, and an awe-scale threshold between physical and cosmic \u2014 this is an abstract texture study with no ground, no world, and no sense of scale, so it cannot carry the piece's whisper about a sky ringing itself around a still point.",
+   "redemption": "Ground the rings in an actual horizon or peak silhouette so the concentric halo reads as sky-over-earth rather than a screensaver pattern, and let the light radiate outward with visible intensity/warmth instead of a faint dot lost in dark gradient."
+  },
+  "minimal-line-art_a68788": {
+   "presence": 1,
+   "chorus": 1,
+   "vessel": 3,
+   "verdict": "HOLD",
+   "seen": "A crackling fractal web of electric fissures over a dark storm-gray field \u2014 texture, not landscape.",
+   "reason": "There is no concentric ring or halo, no still point, no terrain or vista \u2014 this is a lightning/vein fracture pattern that shares none of the canon's radiating-symmetry-over-earth structure and answers a different whisper entirely.",
+   "redemption": "Regenerate with true concentric rings or halos radiating outward from one fixed still point above a recognizable terrain/vista, replacing the branching fractal veins with calm radiating symmetry."
+  },
+  "minimal-line-art_58c3db": {
+   "presence": 3,
+   "chorus": 2,
+   "vessel": 4,
+   "verdict": "HOLD",
+   "seen": "A dense fractal web of lightning/electrical filaments branching across a smoky field, with no terrain, ring, halo, or vista to speak of.",
+   "reason": "The canon calls for concentric rings and radiating light over a real terrain with a threshold between physical and cosmic vista \u2014 this is a close-up lightning-strike texture with no landscape, no concentricity, and no sense of scale or place, so the named essence isn't present at all.",
+   "redemption": "Regenerate with an actual grounded terrain silhouette beneath visible concentric ring/halo bands radiating from one still point in the sky, pulled back to a vista scale that reads as a threshold rather than a texture close-up."
+  },
+  "minimal-line-art_7f3ddb": {
+   "presence": 3,
+   "chorus": 2,
+   "vessel": 5,
+   "verdict": "HOLD",
+   "seen": "A close-up cellular/veined lightning-crack texture with a soft dark fringe and scattered orange sparks, no terrain, no ring or halo structure, no vista.",
+   "reason": "The canon demands concentric rings/halos over real terrain with a threshold between physical and cosmic \u2014 this is an abstract fractal texture fill with no landscape, no ring motif, and no single still point, so it cannot carry the whisper's meaning.",
+   "redemption": "Regenerate with an actual grounded terrain horizon beneath the light, and resolve the energy into visible concentric rings converging on one clear still point rather than an all-over cracked texture."
+  },
+  "minimal-line-art_a4c5b1": {
+   "presence": 3,
+   "chorus": 2,
+   "vessel": 3,
+   "verdict": "HOLD",
+   "seen": "A cracked, veined texture field of luminous fractal lines over grey \u2014 no terrain, no horizon, no ring, no still point.",
+   "reason": "The canon demands concentric rings/halos over real terrain with a threshold between physical and cosmic, but this is an abstract crack/vein texture with no landscape, no radial symmetry, and no discernible focal point \u2014 it doesn't even gesture at the whisper's 'sky ringing itself around one still point.'",
+   "redemption": "Regenerate with an actual grounded vista (mountains, plains, or coastline) beneath visible concentric rings or halos converging on a single luminous still point in the sky \u2014 the current piece is texture, not landscape or vision."
+  },
+  "minimal-line-art_2fd7d3": {
+   "presence": 2,
+   "chorus": 2,
+   "vessel": 4,
+   "verdict": "HOLD",
+   "seen": "A repetitive fractal web of glowing veins over gray, with no terrain, no single still point, and no concentric rings \u2014 pure procedural texture.",
+   "reason": "The canon demands real terrain crowned by a luminous ring around one still center; this is an undifferentiated lattice of branching filaments with dozens of equal bright nodes, giving no sky, no peak, no singular point for the sky to ring itself around.",
+   "redemption": "Regenerate around an actual mountain silhouette with one dominant summit, then wrap it in a single luminous halo/ring of light radiating from that one still point \u2014 not a repeating web of many identical glowing nodes."
+  },
+  "minimal-line-art_83e711": {
+   "presence": 3,
+   "chorus": 2,
+   "vessel": 5,
+   "verdict": "HOLD",
+   "seen": "Two grainy particle-rendered spheres \u2014 one flushed rust-pink, one shadowed \u2014 linked by a thin looping tendril of dust against a flat grey void.",
+   "reason": "There is no terrain, no concentric ring/halo structure, and no radiating luminous light \u2014 this reads as an abstract particle-simulation twin-orb study, not a cosmic landscape ringed around a still point, so it doesn't hold the canon's essence at all.",
+   "redemption": "Rebuild around an actual horizon or terrain with true concentric rings/halos radiating from one fixed point of light, replacing the disconnected orb-and-tendril composition with the awe-scale symmetry the name and whisper promise."
+  },
+  "minimal-line-art_c6da1c": {
+   "presence": 3,
+   "chorus": 2,
+   "vessel": 4,
+   "verdict": "HOLD",
+   "seen": "A veined, fractal web of glowing capillary lines over a dark ground, like electrified terrain or nerve tissue seen from above.",
+   "reason": "There is no concentric ring or halo motif and no single still point being encircled \u2014 the piece is a scattered neural/lightning mesh with two bright flare nodes, not the ringed sky-around-a-center the name and canon demand, so it doesn't hold the essence it claims.",
+   "redemption": "Regenerate with actual concentric rings or halos radiating outward from one clear still point over a recognizable terrain/horizon, so the sky visibly 'rings itself' rather than fracturing into a vein-like web."
+  },
+  "minimal-line-art_22b32d": {
+   "presence": 2,
+   "chorus": 3,
+   "vessel": 4,
+   "verdict": "HOLD",
+   "seen": "A dense, all-over fractal web of lightning-vein texture with no terrain, no ring, and no still point.",
+   "reason": "The canon demands concentric rings over real terrain converging on one still point beneath a radiant sky, but this is undifferentiated crackling texture \u2014 chaotic branching everywhere, no halo motif, no ground, no singular anchor, nothing that rings itself around a center.",
+   "redemption": "Regenerate with actual terrain (mountain, valley, or horizon line) beneath a sky built from true concentric rings/halos that converge visibly on one still point, not an isotropic web of veins."
+  },
+  "minimal-line-art_e53d35": {
+   "presence": 4,
+   "chorus": 3,
+   "vessel": 5,
+   "verdict": "HOLD",
+   "seen": "A funnel of stippled dot-particles converging to a single point above dark surf, with a faint arc-fragment motif echoing at the edges.",
+   "reason": "The composition reads as a light-cone or vortex rather than a concentric ring/halo over terrain \u2014 the 'ring' is a broken arc fading into darkness, not a true halo encircling a still point, so the canon's core symmetry never resolves and the vista feels closer to an abstract particle render than a threshold vista.",
+   "redemption": "Resolve the top into a genuine closed ring or halo of light hovering above the horizon, with the beam/point clearly nested at its center, and ground the terrain more legibly so the cosmic geometry reads as encircling a real place rather than dissolving into noise."
+  },
+  "minimal-line-art_ced45b": {
+   "presence": 7,
+   "chorus": 7,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A funnel of concentric particle rings narrows through a night sky into a single bright column that touches the dark sea, the horizon its still point.",
+   "reason": "The ring motif and radiant convergence genuinely embody the whisper, rendered clean enough to print without any AI-artifact intrusion breaking the spell.",
+   "redemption": ""
+  },
+  "minimal-line-art_d177a6": {
+   "presence": 4,
+   "chorus": 3,
+   "vessel": 6,
+   "verdict": "HOLD",
+   "seen": "A stippled cluster of planet-like orbs drifting through cloudbanks, with a faint concentric-ring sketch tucked off to one side.",
+   "reason": "The concentric rings are a marginal doodle disconnected from the composition's real subject, not a halo encircling one still point over terrain, so the piece doesn't hold its named essence \u2014 it holds a planetary cloudscape instead.",
+   "redemption": "Make the concentric rings the actual center of gravity \u2014 radiating outward from the largest sphere or from a fixed point on the terrain, luminous and load-bearing, rather than a faded sketch pushed to the corner."
+  },
+  "minimal-line-art_3b1e5f": {
+   "presence": 4,
+   "chorus": 3,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "A vertical shaft of particulate light descending onto a dark shoreline, ringed by a single teardrop-shaped loop of dotted points that pinches to a small circle at the base.",
+   "reason": "The canon calls for concentric rings/halos over real terrain with awe-scale symmetry, but this shows only one thin looping strand (not concentric rings) with no visible terrain beyond a sliver of beach and sea \u2014 it reads as a single decorative filament rather than a sky ringing itself around a still point.",
+   "redemption": "Add true concentric ring structures (multiple nested halos, not one dotted loop) arcing over a clearly visible horizon/terrain, so the composition reads as sky-rings meeting land rather than a lone vertical beam with a wire loop around it."
+  },
+  "minimal-line-art_70a8ce": {
+   "presence": 6,
+   "chorus": 3,
+   "vessel": 5,
+   "verdict": "HOLD",
+   "seen": "A vertical shaft of light falling through a grainy dark sky to a night ocean, braided by crossing colored dotted strands rather than any ring or halo.",
+   "reason": "The canon demands concentric ring/halo motifs ringing a still point over real terrain, but this piece gives a woven vertical beam with X-crossing lattice lines \u2014 a different geometry entirely, so it doesn't sing with the Visionary Line room.",
+   "redemption": "Rework the crossing strands into true concentric rings or haloed arcs radiating outward from the bright point, and let recognizable terrain emerge beneath the light rather than a bare dark ocean strip."
+  },
+  "minimal-line-art_a63fa6": {
+   "presence": 6,
+   "chorus": 2,
+   "vessel": 6,
+   "verdict": "HOLD",
+   "seen": "A single beaded strand of light falling straight from the star-dust sky into the sea, not a ring or halo of any kind.",
+   "reason": "The name promises concentricity and the canon demands ring/halo motifs with awe-scale symmetry, but the image gives a single vertical line \u2014 no rings, no concentric structure, so it neither earns its title nor sings with the Visionary Line canon.",
+   "redemption": "Rework the light into actual concentric rings or a halo radiating around a still point over the terrain, rather than a single falling strand."
+  },
+  "minimal-line-art_09d6b3": {
+   "presence": 5,
+   "chorus": 6,
+   "vessel": 8,
+   "verdict": "HOLD",
+   "seen": "A cone of luminous gold-and-teal particulate light converges to a single bright point on a dark shoreline, with only faint ghost-arcs hinting at rings.",
+   "reason": "The vessel is clean and the still point lands beautifully, but the canon's defining concentric-ring/halo motif is barely present \u2014 this reads as a vortex or funnel of light, not a sky ringing itself, so the whisper isn't fulfilled.",
+   "redemption": "Resolve the faint arcs into distinct, legible concentric rings or halos circling the still point, so the ring motif is the dominant structure rather than an afterthought within the light-cone."
+  },
+  "minimal-line-art_66a68f": {
+   "presence": 6,
+   "chorus": 4,
+   "vessel": 5,
+   "verdict": "HOLD",
+   "seen": "A luminous conical lattice of particles funnels down from a bright vertical seam in the sky to a single point on a dark shoreline.",
+   "reason": "The piece has real convergence and awe-scale symmetry, but it reads as a particle vortex/beam rather than concentric rings over a peak, and the two stray dangling bead-chain ornaments floating in the void feel like leftover asset artifacts that break the cosmic-threshold spell.",
+   "redemption": "Resolve the motif into visible concentric ring bands (not a uniform particle cone), root it over an actual terrain peak rather than open ocean, and remove the dangling jewelry-like chains that don't belong to the vista."
+  },
+  "minimal-line-art_12f92c": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A perfect nested halo of concentric rings tightening around a single luminous blue-white core, floating in a starfield above a dark textured horizon.",
+   "reason": "The rings genuinely ring themselves around one still point exactly as the whisper promises, and the terrain-like fringe of vertical striations at the base grounds the cosmic symmetry in something like a physical threshold.",
+   "redemption": ""
+  },
+  "seven-star-botanica_5b6dcb": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "Star-spike flowering spires clustered like a botanical foreground beneath a nebula-thick sky, with faint golden orbital arcs threading through the mist.",
+   "reason": "It genuinely reads as a flower grown under other skies \u2014 the starlit haze and alien orbital rings knit into the botanical foreground rather than sitting behind it as decoration, and the dream-wash canon holds throughout.",
+   "redemption": ""
+  },
+  "seven-star-botanica_c6561f": {
+   "presence": 6,
+   "chorus": 5,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "A pale wildflower spike leaning skyward under a hazy moon and thin starfield, more moonlit-meadow illustration than alchemical cosmic bloom.",
+   "reason": "The rendering is competent and moody but reads as naturalistic nocturnal botany rather than the luminous, alchemical, starfield-fused vision the Cosmic Botanical canon promises \u2014 the stars feel like backdrop dusting rather than the flower growing into or from the cosmos, and there's no named-species specificity or otherworldly glow to the bloom itself.",
+   "redemption": "Fuse the flower and starfield more literally \u2014 let petals shade into constellation-points or trail stardust, intensify a bioluminescent/alchemical glow in the bloom, and sharpen the star density so the sky reads as cosmic rather than merely dark, so the piece feels grown under other skies rather than merely photographed at night."
+  },
+  "seven-star-botanica_d3c3eb": {
+   "presence": 8,
+   "chorus": 6,
+   "vessel": 8,
+   "verdict": "PASS",
+   "seen": "A willow catkin glowing like frost-lit fur and copper pollen against a dusk-teal void, luminous and otherworldly without a single visible flaw.",
+   "reason": "The bloom carries genuine alchemical luminosity and dream-wash softness that earns its 'other skies' whisper, even though it leans botanical-glow over literal starfield.",
+   "redemption": ""
+  },
+  "seven-star-botanica_e2fb3a": {
+   "presence": 6,
+   "chorus": 3,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "A luminous ancient tree with jade-blue foliage rising from moonlit rock, ringed by a gilded arch and botanical filigree, but no flower and no starfield.",
+   "reason": "The whisper promises 'a flower grown under other skies' and the canon demands named blooms against starfields, yet this piece shows a tree in a terrestrial forest glade with no bloom as subject and no stars in the sky \u2014 it breaks faith with its own name and its room.",
+   "redemption": "Recompose around an actual luminous flower/bloom as the central subject, and open the canopy or background to a visible starfield so the cosmic-botanical promise is kept."
+  },
+  "seven-star-botanica_d731c2": {
+   "presence": 6,
+   "chorus": 2,
+   "vessel": 4,
+   "verdict": "HOLD",
+   "seen": "A dew-jeweled seedling in an earthbound, fog-drowned moss hollow \u2014 moody and real, but grounded, not celestial.",
+   "reason": "The canon demands starfields and luminous alchemical botany, and the whisper promises other skies, yet this reads as ordinary misty earth with no cosmic glow, no stars, no sense of elsewhere.",
+   "redemption": "Rework the atmosphere so the mist reads as nebulous starlight rather than terrestrial fog \u2014 seed faint star-points into the haze and give the dew a bioluminescent, otherworldly glint so the bloom feels transplanted from another sky rather than found in a bog."
+  },
+  "seven-star-botanica_ff64a3": {
+   "presence": 7,
+   "chorus": 3,
+   "vessel": 8,
+   "verdict": "HOLD",
+   "seen": "A frost-crusted spray of blossoms suspended in cold blue-violet fog, delicately lit and softly focused.",
+   "reason": "It is a lovely, technically assured winter macro, but nothing in it evokes 'other skies' or the cosmic-botanical canon \u2014 no starfield, no alchemical luminosity, just terrestrial dew and mist, so it doesn't sing with the rest of the Star Botanica line.",
+   "redemption": "Introduce a cosmic layer \u2014 faint star-scatter or nebular glow bleeding through the fog behind the blossoms \u2014 so the bloom reads as grown under alien skies rather than a frosty morning garden."
+  },
+  "seven-star-botanica_7a2689": {
+   "presence": 5,
+   "chorus": 4,
+   "vessel": 8,
+   "verdict": "HOLD",
+   "seen": "A luminous ancient tree crowned in pale starlit foliage, standing over a heron-lined pond beneath golden celestial arcs \u2014 a masterful piece, but a tree where a flower was promised.",
+   "reason": "The rendering is exquisite and genuinely otherworldly, yet the whisper names a 'flower' and the Star Botanica line's canon calls for named blooms \u2014 this vessel holds a bloom-less elder tree, breaking the thread that binds it to its room.",
+   "redemption": "Regenerate with a single luminous flowering bloom (or flowering crown) as the central subject rather than a tree, keeping the starfield, golden orbital arcs, and heron-pond atmosphere intact."
+  },
+  "seven-star-botanica_133554": {
+   "presence": 6,
+   "chorus": 2,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "A frost-rimed wildflower cluster stands alone against a hazy blue dawn lake, quietly melancholic but entirely earthbound.",
+   "reason": "It holds real atmosphere and a lonely, well-composed presence, but nothing here answers to 'other skies' \u2014 no starfield, no alchemical luminosity, no dream-wash; it reads as a misty morning photograph rather than a Cosmic Botanical.",
+   "redemption": "Bring in a visible star-scattered sky or luminous alchemical glow behind the bloom, and shift the palette from literal fog-blue toward something otherworldly rather than a plausible dawn."
+  },
+  "seven-star-botanica_6d6656": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A tall foxglove-like bloom rising alien and luminous against a crescent moon and star-dusted teal sky, alpine silhouettes cradling it below.",
+   "reason": "The composition genuinely earns the whisper \u2014 the flower reads as otherworldly, grown apart from any earthly sun, and the linework-plus-wash rendering holds the cosmic botanical canon without dissolving into generic fantasy art.",
+   "redemption": ""
+  },
+  "seven-star-botanica_bcb995": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A field of frost-pale, spire-blossomed plants rising against a deep indigo starfield, luminous clouds drifting between them like slow smoke.",
+   "reason": "The bloom-spires genuinely glow against the stars with alchemical hush, and the dream-wash gradient from indigo to lavender-pink carries the 'other skies' whisper without any rendering artifacts breaking the spell.",
+   "redemption": ""
+  },
+  "seven-star-botanica_10b0da": {
+   "presence": 4,
+   "chorus": 2,
+   "vessel": 5,
+   "verdict": "HOLD",
+   "seen": "A moody, fog-shrouded hillside with a shaft of light falling on a wild shrub \u2014 an atmospheric nature photograph, not a botanical.",
+   "reason": "There is no flower rendered as a named specimen, no starfield, no alchemical luminosity \u2014 this is a naturalistic misty landscape that doesn't sing with the Cosmic Botanical canon or the piece's own whisper of a flower grown under other skies.",
+   "redemption": "Replace with a piece that actually renders a distinct bloom, luminous against a starfield or void backdrop, in dream-wash alchemical treatment \u2014 the subject itself needs to be the star-grown flower, not implied by mood alone."
+  },
+  "seven-star-botanica_11bc34": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A violet water-lily floating on a still nocturnal pond, drinking a shaft of starlight falling from a nebula-lit sky, its glow doubled in the reflection below.",
+   "reason": "The bloom genuinely reads as fed by another sky \u2014 the starlight column and petal luminescence sell the whisper, and the water mirroring keeps the composition alive rather than static.",
+   "redemption": ""
+  },
+  "seven-star-botanica_66ee9a": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A sacred basil (tulsi) mandala, its jade-teal leaves crowded before a golden solar halo etched with alchemical script and a small crescent moon, glowing with quiet devotional heat.",
+   "reason": "It fully earns 'a flower grown under other skies' \u2014 the halo, script-ring, and moon read as genuine other-sky cosmology rather than decoration, and the leaf rendering stays coherent and hand-felt despite the ornate border.",
+   "redemption": ""
+  },
+  "seven-star-botanica_c1831d": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A holy basil plant rendered as botanical illustration haloed by a golden ringed sun/star-portal, gilded clouds anchoring it to earth while stardust rains from above.",
+   "reason": "The heart-centered glow and celestial ring genuinely deliver 'grown under other skies,' and the gold-line linework sings with the Cosmic Botanical canon's alchemical, dream-wash sensibility without any anatomical or AI-artifact breaks.",
+   "redemption": ""
+  },
+  "seven-star-botanica_72baeb": {
+   "presence": 6,
+   "chorus": 3,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "A luminous ancient cedar rooted in moonlit stone beneath a gilded ornamental arc, rendered with genuine painterly atmosphere.",
+   "reason": "The whisper promises a flower grown under other skies and the canon demands a named bloom against a starfield, but this is a full forest tree with no bloom and barely any stars \u2014 the essence claimed by the name never actually appears in the vessel.",
+   "redemption": "Regenerate centering a single luminous flower or blossom (not a tree) rising against a true starfield, keeping the gilded arc and rock-and-glow atmosphere but letting the bloom itself carry the composition."
+  },
+  "seven-star-botanica_ea7cc7": {
+   "presence": 6,
+   "vessel": 7,
+   "chorus": 3,
+   "verdict": "HOLD",
+   "seen": "An ancient glowing cedar in a forest clearing, ringed by a faint golden alchemical halo etched against the night sky.",
+   "reason": "The vessel is finely rendered and atmospheric, but this is a tree, not a flower or bloom \u2014 it doesn't hold the essence its name and whisper claim, and it breaks with the Star Botanica room's canon of named blooms against starfields.",
+   "redemption": "Redirect the subject to an actual luminous bloom or flowering botanical specimen set against a visible starfield, keeping the alchemical halo motif, rather than a tree form."
+  },
+  "seven-star-botanica_f279d3": {
+   "presence": 5,
+   "chorus": 3,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "A glowing pale-crowned ancient tree in a starlit forest clearing beside a river, with celestial arcs traced overhead and herons wading below.",
+   "reason": "It's a luminous, well-crafted forest icon, but it is a tree, not a flower \u2014 it does not hold 'a flower grown under other skies,' and it reads as a night-forest illustration rather than a named cosmic bloom, breaking the Star Botanica canon.",
+   "redemption": "Redesign around an actual solitary luminous flower/bloom form (petals, stem, alchemical botanical structure) set against a starfield, rather than a tree canopy, so the piece answers its own whisper and matches the line's cosmic-botanical vocabulary."
+  },
+  "seven-star-botanica_e2ed48": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A mugwort spire haloed in orbital gold rings, silhouetted against a hazy moon in cool blue night-bloom.",
+   "reason": "The plant reads as genuinely otherworldly \u2014 the orbital rings and moon-glow deliver the 'other skies' whisper without slipping into generic AI-flower mush, and the botanical form stays anatomically coherent.",
+   "redemption": ""
+  },
+  "seven-star-botanica_358605": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A rosemary bush cathedral-lit from within, standing before ancient ruined stone and a runic gold ring, as if grown at the threshold of another world.",
+   "reason": "The upward gold-white bloom at its crown genuinely reads as light 'grown under other skies,' the sigil ring and worn ruins earn the ancestral/alchemical register, and the botanical anatomy holds without artifacting.",
+   "redemption": ""
+  },
+  "seven-star-botanica_7f06d8": {
+   "presence": 7,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A rosemary spire lit from above by falling gold motes, ringed by faint alchemical circles dissolving into a dark emerald grove.",
+   "reason": "The ancestral-glow whisper lands convincingly in the descending light and ritual geometry, and the botanical rendering holds its form without artifacting, so it earns its place under other skies.",
+   "redemption": ""
+  },
+  "seven-star-botanica_902609": {
+   "presence": 7,
+   "chorus": 5,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "A thyme shrub on a rocky outcrop with a river of luminous chrono-mist and starry gold currents flowing beneath it.",
+   "reason": "The dream-wash glow is lovely and the botanical rendering holds up, but there is no starfield or night sky presence at all \u2014 it reads as an earthbound plant with a magic river, not a bloom set against other skies, so it doesn't sing with the Cosmic Botanical canon.",
+   "redemption": "Open the canopy or background to reveal a visible night sky or starfield beyond the foliage, so the 'other skies' whisper has something to actually show."
+  },
+  "seven-star-botanica_dd55fa": {
+   "presence": 3,
+   "chorus": 2,
+   "vessel": 6,
+   "verdict": "HOLD",
+   "seen": "A dense, well-crafted William Morris\u2013style botanical wallpaper pattern of thistles, peonies, and lilac clusters on a textured green ground.",
+   "reason": "It is a lush, competently rendered textile-print repeat, but it holds no starfield, no cosmic void, no luminous alchemical light \u2014 nothing here whispers 'grown under other skies,' so it does not belong in the Star Botanica Line at all.",
+   "redemption": "Strip the earthbound wallpaper density and re-render as a single named bloom suspended in a dark starlit field with alchemical luminosity, so the flower reads as otherworldly rather than upholstery."
+  },
+  "seven-star-botanica_40bffc": {
+   "presence": 3,
+   "chorus": 2,
+   "vessel": 5,
+   "verdict": "HOLD",
+   "seen": "A dense earthbound heather/wildflower textile pattern on woven linen, botanically grounded but with no starfield, no cosmos, no luminous alchemy anywhere in it.",
+   "reason": "This is a terrestrial fabric-swatch botanical, not a named bloom against other skies \u2014 it holds no trace of the Cosmic Botanical canon's starfields or dream-wash glow, so it can't sign in the Star Botanica Line regardless of its craft.",
+   "redemption": "Rebuild against a genuine night/starfield ground with luminous, alchemical color washing through the petals and stems, so the flower reads as grown under other skies rather than woven into an earthly linen swatch."
+  },
+  "seven-star-botanica_0a26c6": {
+   "presence": 6,
+   "chorus": 2,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "A dense, moody terrestrial garden of cream peonies and moss-green foliage, rendered with genuine botanical linework and atmosphere.",
+   "reason": "It holds no starfield, no cosmic light, no sense of 'other skies' \u2014 this is an earthbound forest bloom, and it breaks the Star Botanica canon entirely rather than merely flawing it.",
+   "redemption": "Open the canopy to reveal star-flecked sky or nebula glow behind the blooms, and thread luminous alchemical light into the petals so the flower reads as grown under skies not our own."
+  },
+  "seven-star-botanica_3663db": {
+   "presence": 3,
+   "chorus": 4,
+   "vessel": 6,
+   "verdict": "HOLD",
+   "seen": "A dense, moody terrestrial garden of peonies and delphiniums rendered in illustrative line-and-wash green \u2014 lush, competently drawn, but grounded entirely in earth.",
+   "reason": "The whisper promises 'a flower grown under other skies' and the canon demands starfields and luminous alchemical cosmic botany, yet nothing here breaks from a forest floor \u2014 no sky, no stars, no otherworldly light source, so it doesn't sing in this room even though the botanical rendering itself is solid.",
+   "redemption": "Open the canopy to reveal a starfield or nebula glow behind the foliage, and let at least one bloom carry luminous, non-terrestrial color or inner light so the piece reads as grown under other skies rather than under an ordinary hedge."
+  },
+  "seven-star-botanica_6ef4ad": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A blue lotus floating on still dark water, drinking a column of starlight falling from a nebula-thick sky, its own reflection glowing back up from the water.",
+   "reason": "It fully earns the whisper \u2014 this bloom is visibly fed by another sky, not just placed under one, and the light-fall/reflection axis gives the composition real gravity, with only minor softness in the lower-left water detail.",
+   "redemption": ""
+  },
+  "seven-star-botanica_669d3c": {
+   "presence": 5,
+   "chorus": 4,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "An ancient cedar tree lit from beneath by golden light, ringed by an astrolabe-like celestial halo etched in gold against a dark forested night.",
+   "reason": "This is a luminous alchemical tree in a starfield-adjacent setting, but there is no flower \u2014 the whisper names a bloom grown under other skies, and the piece delivers a tree instead, breaking the named-bloom promise of the Star Botanica canon.",
+   "redemption": "Replace the subject with an actual flower or blossoming bloom (even a strange, otherworldly one) as the focal point beneath the gold ring, keeping the luminous alchemical treatment and celestial halo."
+  },
+  "seven-star-botanica_48e18d": {
+   "presence": 6,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "A luminous ivory cedar crowned by celestial arc-lines, standing over a quiet pooled sanctuary of pale herons and stone.",
+   "reason": "The starfield-orbit motif and dream-wash palette sing the Cosmic Botanical canon beautifully, but this is a tree in a forest, not a named bloom \u2014 the piece reads as landscape illustration rather than a portrait of a singular flower carrying its own alien-sky essence.",
+   "redemption": "Bring a distinct, singular flower/bloom form forward as the clear subject (even if tree-scaled), with the star-arcs feeling like they answer to it specifically rather than crowning a generic grove."
+  },
+  "seven-star-botanica_85d344": {
+   "presence": 4,
+   "chorus": 2,
+   "vessel": 6,
+   "verdict": "HOLD",
+   "seen": "A gnarled cedar with blue-green foliage on a rocky outcrop beneath a gilded arch of ornamental script, rendered as a lush landscape painting.",
+   "reason": "This is a tree, not a flower \u2014 it holds no bloom at all, so it cannot carry the whisper of 'a flower grown under other skies,' and it breaks chorus with the Star Botanica canon of named blooms against starfields.",
+   "redemption": "Replace the subject with an actual named alchemical bloom set against a visible starfield, keeping the gilded arch motif but losing the tree entirely."
+  },
+  "seven-star-botanica_e0b27a": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "Mugwort's frosted spires catch starlight against nebula-veiled peaks, faint golden arcs tracing orbits above the foliage like a spell drawn across the sky.",
+   "reason": "The bloom feels genuinely alien-skied rather than merely lit differently, with the glittering flower spikes and misty depth carrying real dream-wash atmosphere and no anatomy or artifact breaking the illusion.",
+   "redemption": ""
+  },
+  "seven-star-botanica_5ae9c1": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A rosemary-like sprig rising from a nebulous starfield of violet haze and drifting golden light-motes.",
+   "reason": "The bloom reads as genuinely otherworldly \u2014 grounded botanical structure fused seamlessly with cosmic dust and bokeh stars, no dead composition or artifact breaks the spell.",
+   "redemption": ""
+  },
+  "seven-star-botanica_0db018": {
+   "presence": 8,
+   "chorus": 7,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "Velvety sage leaves furred with dew and gold stardust, exhaling smoke into a starfield night.",
+   "reason": "The alchemical-botanical whisper lands cleanly \u2014 recognizable sage foliage genuinely fused with cosmic glitter and drifting nebula-smoke, textured and coherent with no melted or malformed anatomy.",
+   "redemption": ""
+  },
+  "seven-star-botanica_36d8ef": {
+   "presence": 7,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A grounded sage plant, its leaves rendered in real botanical texture, exhaling smoke that dissolves seamlessly into a starfield above it.",
+   "reason": "The transition from earthly foliage to cosmic dust is unbroken and convincing, and the sparks feel like they're genuinely born from the smoke rather than pasted over it, fulfilling the 'other skies' whisper without any artifact breaking the illusion.",
+   "redemption": ""
+  },
+  "seven-star-botanica_119897": {
+   "presence": 7,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A sage plant's textured leaves dissolve at the edges into rising smoke that becomes a starfield, the botanical and the cosmic genuinely fused rather than layered.",
+   "reason": "The transformation reads as one continuous breath from herb to galaxy, the sparks feel embedded in the smoke rather than pasted on, and it matches canon without collapsing into generic stock-nebula filler.",
+   "redemption": ""
+  },
+  "seven-star-botanica_886006": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "Sage leaves dusted in gold-star pollen dissolve into rising blue smoke that becomes cosmic haze, as if the plant is quietly exhaling its own galaxy.",
+   "reason": "It reads exactly as its whisper promises \u2014 an earthly herb transfigured by an alien sky, with the leaf texture and smoke both rendered with enough physical conviction to keep the dream-wash from going mushy or generic.",
+   "redemption": ""
+  },
+  "seven-star-botanica_cbe95b": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "Sage leaves dusted with gold star-motes, dissolving into smoke that becomes nebula, wholly at home in the cosmic-botanical canon.",
+   "reason": "The alchemical transformation from herb to starfield is complete and unforced, with no anatomy to break and no seams where the dream-wash rendering shows its hand.",
+   "redemption": ""
+  },
+  "seven-star-botanica_472ee1": {
+   "presence": 7,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A thyme-like sprig with tiny lavender blossoms rises through a soft glittering nebula haze of rose and violet bokeh.",
+   "reason": "It carries genuine cosmic-botanical atmosphere \u2014 real plant structure, believable growth habit, and a dream-wash starfield that feels grown-into rather than pasted-on, with no distorted anatomy or AI tells.",
+   "redemption": ""
+  },
+  "seven-star-botanica_08876c": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A slender thyme spray with tiny lavender blooms rises against a soft nebula-glow bokeh field, botanical and cosmic dust merging into one atmosphere.",
+   "reason": "The bloom reads as genuinely grown under other skies \u2014 its earthly, correctly-formed anatomy is haloed by convincing stardust light rather than fighting it, and the piece fits the Cosmic Botanical canon's luminous, dream-washed voice.",
+   "redemption": ""
+  },
+  "seven-star-botanica_e26c50": {
+   "presence": 7,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A thyme sprig with tiny purple-white blossoms glowing as if lit from within a nebula of gold dust and drifting starlight.",
+   "reason": "The botanical detail stays crisp and anatomically coherent while the cosmic dream-wash of bokeh and stardust genuinely reads as another sky, earning its whisper without breaking into artifact or noise.",
+   "redemption": ""
+  },
+  "seven-star-botanica_2984af": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A thyme-like bloom rendered as sharp botanical detail dissolving into a soft nebular haze of gold dust and violet light, as if photographed at the border between garden and galaxy.",
+   "reason": "The flower's own structure stays crisp and botanically believable while the surrounding bokeh and starlight genuinely read as 'other skies' rather than a generic filter, and it sits comfortably with the cosmic-botanical canon.",
+   "redemption": ""
+  }
  }
 }

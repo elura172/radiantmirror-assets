@@ -75,6 +75,8 @@ def main() -> None:
 
     gelato_external_ids('gelato_pushed_v2.json', state["ids"])
     gelato_external_ids('gelato_pushed_founders.json', state["ids"])
+    if (HERE/'gelato_pushed_comma.json').exists():
+        gelato_external_ids('gelato_pushed_comma.json', state["ids"])
     save()
     print(f"listings live: {len(state['ids'])}")
 
@@ -86,15 +88,22 @@ def main() -> None:
 
     seo = {x['month']: x for x in json.loads((HERE/'seo_relaunch_manifest.json').read_text())}
     founders = {x['month']: x for x in json.loads((HERE/'founders_manifest.json').read_text())}
+    comma = {x['month']: x for x in json.loads((HERE/'comma_square_manifest.json').read_text())} if (HERE/'comma_square_manifest.json').exists() else {}
+    hermes_sq = {x['month']: x for x in json.loads((HERE/'hermes_square_manifest.json').read_text())} if (HERE/'hermes_square_manifest.json').exists() else {}
+    hermes_pt = {x['month']: x for x in json.loads((HERE/'hermes_portrait_manifest.json').read_text())} if (HERE/'hermes_portrait_manifest.json').exists() else {}
 
     # media
     for key, lid in state["ids"].items():
         if key in state["media"]:
             continue
-        item = seo.get(key) or founders.get(key)
+        item = seo.get(key) or founders.get(key) or comma.get(key) or hermes_sq.get(key) or hermes_pt.get(key)
         stem = item['file']
-        art = HERE/('originals-2048' if key in FLOWER_KEYS else
-                    ('founders' if key in founders else 'atlas-selects'))/f"{stem}.png"
+        art_dir = ('originals-2048' if key in FLOWER_KEYS else
+                   'founders' if key in founders else
+                   'comma-selects' if key in comma else
+                   'hermes-selects' if (key in hermes_sq or key in hermes_pt) else
+                   'atlas-selects')
+        art = HERE/art_dir/f"{stem}.png"
         ok = True
         # flat true-to-color art as an early photo
         with art.open('rb') as f:
@@ -102,7 +111,7 @@ def main() -> None:
                               headers=hdr, files={"image": (art.name, f, "image/png")},
                               data={"rank": 2}, timeout=90)
         ok &= r.status_code in (200, 201)
-        if key not in founders:
+        if key not in founders and key not in hermes_pt:
             for scene in sorted((HERE/'mockups'/stem).glob('scene*.jpg')):
                 with scene.open('rb') as f:
                     r = requests.post(f"https://api.etsy.com/v3/application/shops/{shop_id}/listings/{lid}/images",
