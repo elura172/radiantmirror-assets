@@ -56,12 +56,12 @@ SYSTEM = (
 )
 
 
-def judge(image: Path, name: str, whisper: str, room: str) -> dict:
+def judge(image: Path, name: str, whisper: str, room: str, canon: str = CANON) -> dict:
     prompt = (
         f"Open and look at this image: {image}\n\n"
         f"The piece is named: {name}\n"
         f"Its whisper: \"{whisper}\"\n"
-        f"Its room in the collection: {room}\n\n{CANON}\n\n"
+        f"Its room in the collection: {room}\n\n{canon}\n\n"
         "Look. Then give your verdict as the JSON object."
     )
     r = subprocess.run(
@@ -82,7 +82,7 @@ def judge(image: Path, name: str, whisper: str, room: str) -> dict:
 
 def main() -> None:
     ap = argparse.ArgumentParser()
-    ap.add_argument("collection", choices=["atlas", "flowers", "vault", "comma"])
+    ap.add_argument("collection", choices=["atlas", "flowers", "vault", "comma", "hermes"])
     ap.add_argument("--piece")
     ap.add_argument("--force", action="store_true", help="re-judge even if a verdict exists")
     args = ap.parse_args()
@@ -97,7 +97,7 @@ def main() -> None:
             continue
         if key in coll and not args.force and coll[key].get("verdict") in ("PASS", "HOLD"):
             continue
-        v = judge(Path(piece["image"]) if piece["image"].startswith("/") else HERE / piece["image"], piece["name"], piece["whisper"], piece["room"])
+        v = judge(Path(piece["image"]) if piece["image"].startswith("/") else HERE / piece["image"], piece["name"], piece["whisper"], piece["room"], piece.get("canon", CANON))
         coll[key] = v
         VERDICTS.write_text(json.dumps(verdicts, indent=1))
         mark = {"PASS": "✧", "HOLD": "◦"}.get(v.get("verdict"), "!")

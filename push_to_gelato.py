@@ -83,12 +83,21 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--month")
+    ap.add_argument("--manifest", help="alternate listings manifest (e.g. atlas)")
+    ap.add_argument("--template", help="single template UUID for every item")
+    ap.add_argument("--pushed-file", help="alternate pushed-tracking file")
+    ap.add_argument("--eye-gate", help="require PASS verdict in eye_verdicts.json under this collection")
     args = ap.parse_args()
 
     key = load_env_key()
     templates = load_templates()
-    listings = json.loads(MANIFEST.read_text())
-    pushed = json.loads(PUSHED.read_text()) if PUSHED.exists() else {}
+    manifest_path = Path(args.manifest) if args.manifest else MANIFEST
+    listings = json.loads((HERE / manifest_path).read_text())
+    pushed_path = HERE / args.pushed_file if args.pushed_file else PUSHED
+    pushed = json.loads(pushed_path.read_text()) if pushed_path.exists() else {}
+    eye = {}
+    if args.eye_gate:
+        eye = json.loads((HERE / "eye_verdicts.json").read_text()).get(args.eye_gate, {})
     store = "4c983914-3f7a-4810-9dcb-562d2e92ea81"
 
     for item in listings:
@@ -98,7 +107,10 @@ def main() -> None:
         if month in pushed:
             print(f"[skip] {month} already pushed: {pushed[month]}")
             continue
-        template_id = templates.get(month)
+        if args.eye_gate and eye.get(month, {}).get("verdict") != "PASS":
+            print(f"[gate] {month}: no PASS from the Ethereal Eye — not shipped")
+            continue
+        template_id = args.template or templates.get(month)
         if not template_id:
             print(f"[skip] {month}: no template id in config")
             continue
@@ -145,7 +157,7 @@ def main() -> None:
         if status in (200, 201):
             pid = resp.get("id", "?")
             pushed[month] = pid
-            PUSHED.write_text(json.dumps(pushed, indent=1))
+            pushed_path.write_text(json.dumps(pushed, indent=1))
             print(f"[ok] {month}: product {pid} status={resp.get('status')}")
         else:
             print(f"[fail] {month}: {status} {str(resp)[:300]}")
