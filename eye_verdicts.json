@@ -1,0 +1,202 @@
+{
+ "atlas": {
+  "dawn-veil": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A translucent, glowing-veined blossom and its dried seed-head companion float in a pale mist of negative space, the flower's amber threads catching light like embers under gauze.",
+   "reason": "The luminous, softly bleeding rendering and the vast cream void around a single stem embody the canon's restraint and dream-wash light, and the whisper's gentle dawn-arrival is felt in how the glow sits inside the petals rather than striking them.",
+   "redemption": ""
+  },
+  "alpine-scatter": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A sparse cluster of small mountain wildflowers on tall thin stems, scattered against a vast pale, fog-white void.",
+   "reason": "The generous negative space against the two-thirds empty sky and the soft, memory-like haze of the background genuinely earn the whisper about smallness feeling complete in thin air, and the composition sits comfortably in Room I's minimalist canon.",
+   "redemption": ""
+  },
+  "solar-silk": {
+   "presence": 7,
+   "chorus": 8,
+   "vessel": 6,
+   "verdict": "PASS",
+   "seen": "Backlit tulip-like blooms dissolve into a golden haze, their translucent petals veined like silk holding sunlight rather than reflecting it.",
+   "reason": "The light genuinely softens as it passes through the petals \u2014 the whisper is literalized in the translucency and glow, and the dense floral crowding still cedes a real breathing void at center-top, so restraint and alchemy both hold, though the bottom-heavy composition crowds the negative space more than ideal.",
+   "redemption": ""
+  },
+  "porcelain-garden": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 8,
+   "verdict": "PASS",
+   "seen": "A single blue five-petaled bloom held aloft in luminous white, two smaller drooping blossoms trailing beneath like whispered echoes, the whole stem dissolving into a soft indigo mist.",
+   "reason": "The veined petals and fine golden stamens carry real botanical presence while the negative space and bleeding blue-into-white haze embody the room's stillness and grace without a single note of noise or artifice.",
+   "redemption": ""
+  },
+  "highland-weave": {
+   "presence": 7,
+   "chorus": 8,
+   "vessel": 6,
+   "verdict": "PASS",
+   "seen": "A field of cosmos blooms on slender stems, each flower distinct yet all leaning into the same misted breath of sage and cream.",
+   "reason": "The many-small-lives whisper is genuinely held \u2014 no single bloom dominates, the multitude reads as a chorus, and the dream-wash fog keeps edges dissolving true to canon, though the composition thins toward the upper-right corner.",
+   "redemption": ""
+  },
+  "verdant-memory": {
+   "presence": 8,
+   "chorus": 9,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "Two pale, moth-soft blooms surface out of near-total darkness, cradled by clover-green leaves that hold light like something half-recalled.",
+   "reason": "The deep shadow-to-glow gradient and dissolving petal edges enact the whisper directly \u2014 memory as something the eye has to work to retrieve from green dark \u2014 and nothing here reads as synthetic or structurally off.",
+   "redemption": ""
+  },
+  "sun-faded-herbarium": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A pressed-herbarium arrangement of blooms and leaves rendered in bleached sepia, gold, and faded lavender, laid flat as specimens on aged paper.",
+   "reason": "The composition breathes with restraint and negative space, and the desaturated, sun-bleached palette embodies the whisper of time passing gently, with only a faint softness at petal edges to place it in Dream-Wash rather than crisp illustration.",
+   "redemption": ""
+  },
+  "aether-glass-refined": {
+   "presence": 7,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "Translucent ginkgo-fan petals rendered as veined glass, caught mid-bloom in a pale sage haze of soft bokeh light.",
+   "reason": "The fibrous vein-lines and glassy sheen genuinely read as matter unsure whether it's still solid, and the desaturated green-white palette with dissolving edges honors both the Alchemical Atmosphere and Dream-Wash canon without tipping into obvious AI over-symmetry.",
+   "redemption": ""
+  },
+  "opaline-drift": {
+   "presence": 7,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A single bloom dissolved almost to vapor against warm greige, its stem the only line the image commits to.",
+   "reason": "It passes because the whisper is literal \u2014 nothing here insists on being seen, yet the flower's circular gesture and stem still cohere into recognizable presence rather than mere fog.",
+   "redemption": ""
+  },
+  "ether-glass": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A translucent, glass-thin flower and its distant echo drift in vast white silence, tethered by curling tendril-wires as if caught mid-vanish.",
+   "reason": "The near-transparency of the petals, the immense negative space, and the fragile wire-line stems enact the whisper exactly \u2014 this is a bloom that seems to dissolve if you blink, glass and memory rendered as one gesture.",
+   "redemption": ""
+  },
+  "luminous-void": {
+   "presence": 7,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "Two faint wireframe blossoms \u2014 one tall and open, one small and budding \u2014 barely etched into near-total black.",
+   "reason": "It genuinely risks vanishing yet the linework holds just enough structure and a soft halo of light around the taller bloom to keep presence intact, honoring both the whisper and the canon of restraint.",
+   "redemption": ""
+  },
+  "labradorite-veil": {
+   "presence": 7,
+   "chorus": 8,
+   "vessel": 6,
+   "verdict": "PASS",
+   "seen": "Three near-black bloom-forms emerge from shadow, their petal-edges catching thin iridescent glints like labradorite flash seen only at an angle.",
+   "reason": "The near-total darkness withholds itself exactly as the whisper demands, and the schiller-edge lighting rewards the eye that leans in rather than illuminating for free, though the petal surfaces read slightly muddy/painterly rather than mineral-taut.",
+   "redemption": ""
+  },
+  "amethyst-bloom": {
+   "presence": 7,
+   "chorus": 8,
+   "vessel": 6,
+   "verdict": "PASS",
+   "seen": "A single lavender bloom whose petals fray into soft, uneven paper-edges around a dense violet-black throat that pulls the eye inward and holds it.",
+   "reason": "The bruised gravity at the center gives real mineral depth and the whisper's quiet settling, and the frayed silhouette against void-plum ground keeps the negative space doing its restrained work, so nothing breaks the spell despite a slightly flat overall lighting.",
+   "redemption": ""
+  },
+  "frost-lattice": {
+   "presence": 7,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A crystalline, radially-symmetric bloom of frosted glass-petals fanning from a starburst center, veined like translucent ice.",
+   "reason": "The mineral-frost transformation and dream-wash edge-bleed both hold, and the fractal petal symmetry earns the 'delicate precision' whisper without tipping into artificial stiffness.",
+   "redemption": ""
+  },
+  "iridescent-ash": {
+   "presence": 7,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A ghost-pale floral stem, ash-grey and diagonal, holding one bright bead of iridescent light at its center like an ember refusing to go out.",
+   "reason": "The near-total desaturation into ash-fog reads as the aftermath of burning, and the single glinting highlight at the flower's heart earns the whisper of something luminous surviving \u2014 restraint, dissolve, and mineral atmosphere all present with no artifacts breaking the spell.",
+   "redemption": ""
+  },
+  "deepwater-bloom": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A single pale bud curls at the tip of one strand among dark drifting eelgrass, caught mid-gesture in still water.",
+   "reason": "The curl of that one lit strand against the near-black depth reads as motion held in stillness, exactly the whisper's claim, and the dream-wash bloom of light and soft-edged strands sits comfortably inside Room V's alchemical, deep-and-wild register.",
+   "redemption": ""
+  },
+  "midnight-opaline": {
+   "presence": 8,
+   "chorus": 7,
+   "vessel": 6,
+   "verdict": "PASS",
+   "seen": "Opalescent petals of blush and violet catch light against near-black petals and a starfield of scattered glinting particulate, exactly as if color were hiding until the angle shifts.",
+   "reason": "It carries its whisper faithfully \u2014 the iridescent shimmer against void-black reads as color asleep in darkness \u2014 though the edges are drawn with slightly harder linework than the dream-wash canon prefers.",
+   "redemption": ""
+  },
+  "ember-bloom": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A rose smoldering down into embers, its petals gone the color of banked coals while a thin ember-line traces each edge in restrained heat.",
+   "reason": "The whisper's promise \u2014 warmth after the fire has learned restraint \u2014 is genuinely held in the glowing outline against near-black petals, and it sings with Room V's alchemical, dream-washed canon without breaking the spell.",
+   "redemption": ""
+  },
+  "wild-tangle": {
+   "presence": 7,
+   "chorus": 7,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A dense skein of blue and gold wildflowers and grasses spilling and crossing in unruly diagonals against a bleached-white ground, refusing the tidy bouquet.",
+   "reason": "The tangle genuinely resists arrangement \u2014 stems cross at odd angles, blooms cluster and thin unevenly, and the dream-wash bleed at the edges keeps it soft rather than botanical-illustration stiff, so whisper and canon both hold.",
+   "redemption": ""
+  },
+  "ink-garden": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 8,
+   "verdict": "PASS",
+   "seen": "A single continuous ink line traces a stem into translucent, sumi-e blossoms \u2014 bleeding gray-black petals with one warm ochre bloom breathing at the center, held on a vast field of white.",
+   "reason": "The line reads as one unbroken gesture, the wash-bled petal edges genuinely dissolve into memory rather than render, and the restraint of white space lets the ink's single moment stay \u2014 it fulfills Room VI's hand-and-mark whisper and both the botanical-minimalism and dream-wash canons at once.",
+   "redemption": ""
+  },
+  "charcoal-whisper": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 8,
+   "verdict": "PASS",
+   "seen": "Thread-fine charcoal contours of trailing floral stems and blossoms, drawn as if the ink itself is fading mid-gesture, with soft ash-grey bleed pooling behind the linework.",
+   "reason": "The wire-thin, half-erased quality of the line against the smoky washes reads exactly as a mark left after the hand and voice have withdrawn, and it sits comfortably inside both the botanical-minimalism and alchemical-ash registers of the collection.",
+   "redemption": ""
+  },
+  "nocturne-bloom": {
+   "presence": 7,
+   "chorus": 6,
+   "vessel": 6,
+   "verdict": "PASS",
+   "seen": "A luminous night-blooming flower opening in starlit dark, its petals glowing faintly from within as if lit by memory rather than sun.",
+   "reason": "It genuinely earns the whisper \u2014 this reads as a bloom occurring after the world has quieted, and the dream-wash edge-softening and star-dusted atmosphere serve Alchemical Atmosphere and Dream-Wash Rendering, though the crowded, almost-symmetrical petal mass leans fuller and busier than the collection's minimalist restraint.",
+   "redemption": ""
+  }
+ }
+}

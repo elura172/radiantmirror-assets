@@ -1,0 +1,156 @@
+[
+ {
+  "key": "dawn-veil",
+  "name": "The Dawn Veil",
+  "whisper": "Light arrives softly enough not to disturb the dream.",
+  "room": "Room I \u2014 First Light",
+  "image": "atlas-selects/dawn-veil.png"
+ },
+ {
+  "key": "alpine-scatter",
+  "name": "The Alpine Scatter",
+  "whisper": "In thin air, even the smallest bloom feels complete.",
+  "room": "Room I \u2014 First Light",
+  "image": "atlas-selects/alpine-scatter.png"
+ },
+ {
+  "key": "solar-silk",
+  "name": "The Solar Silk",
+  "whisper": "Light learns to soften as it passes through.",
+  "room": "Room I \u2014 First Light",
+  "image": "atlas-selects/solar-silk.png"
+ },
+ {
+  "key": "porcelain-garden",
+  "name": "The Porcelain Garden",
+  "whisper": "Nothing moves, and yet everything is held in perfect grace.",
+  "room": "Room II \u2014 Held Garden",
+  "image": "atlas-selects/porcelain-garden.png"
+ },
+ {
+  "key": "highland-weave",
+  "name": "The Highland Weave",
+  "whisper": "Many small lives, leaning into one shared breath.",
+  "room": "Room II \u2014 Held Garden",
+  "image": "atlas-selects/highland-weave.png"
+ },
+ {
+  "key": "verdant-memory",
+  "name": "The Verdant Memory",
+  "whisper": "The green remembers what the hands have forgotten.",
+  "room": "Room II \u2014 Held Garden",
+  "image": "atlas-selects/verdant-memory.png"
+ },
+ {
+  "key": "sun-faded-herbarium",
+  "name": "The Sun-Faded Herbarium",
+  "whisper": "Time kept this gently, without asking it to remain.",
+  "room": "Room II \u2014 Held Garden",
+  "image": "atlas-selects/sun-faded-herbarium.png"
+ },
+ {
+  "key": "aether-glass-refined",
+  "name": "The Aether Glass (Refined)",
+  "whisper": "Form hesitates here, as if still deciding to exist.",
+  "room": "Room III \u2014 Veil Between",
+  "image": "atlas-selects/aether-glass-refined.png"
+ },
+ {
+  "key": "opaline-drift",
+  "name": "The Opaline Drift",
+  "whisper": "Soft light gathers where nothing insists on being seen.",
+  "room": "Room III \u2014 Veil Between",
+  "image": "atlas-selects/opaline-drift.png"
+ },
+ {
+  "key": "ether-glass",
+  "name": "The Ether Glass",
+  "whisper": "If you look too quickly, it will choose not to be there.",
+  "room": "Room III \u2014 Veil Between",
+  "image": "atlas-selects/ether-glass.png"
+ },
+ {
+  "key": "luminous-void",
+  "name": "The Luminous Void",
+  "whisper": "Almost nothing\u2014and yet it does not disappear.",
+  "room": "Room III \u2014 Veil Between",
+  "image": "atlas-selects/luminous-void.png"
+ },
+ {
+  "key": "labradorite-veil",
+  "name": "The Labradorite Veil",
+  "whisper": "It does not reveal\u2014it answers your willingness to turn.",
+  "room": "Room IV \u2014 Mineral Heart",
+  "image": "atlas-selects/labradorite-veil.png"
+ },
+ {
+  "key": "amethyst-bloom",
+  "name": "The Amethyst Bloom",
+  "whisper": "Depth settles quietly into itself.",
+  "room": "Room IV \u2014 Mineral Heart",
+  "image": "atlas-selects/amethyst-bloom.png"
+ },
+ {
+  "key": "frost-lattice",
+  "name": "The Frost Lattice",
+  "whisper": "Stillness fractures into delicate precision.",
+  "room": "Room IV \u2014 Mineral Heart",
+  "image": "atlas-selects/frost-lattice.png"
+ },
+ {
+  "key": "iridescent-ash",
+  "name": "The Iridescent Ash",
+  "whisper": "Something luminous survived the forgetting.",
+  "room": "Room IV \u2014 Mineral Heart",
+  "image": "atlas-selects/iridescent-ash.png"
+ },
+ {
+  "key": "deepwater-bloom",
+  "name": "The Deepwater Bloom",
+  "whisper": "It moves, even when nothing appears to change.",
+  "room": "Room V \u2014 Deep & Wild",
+  "image": "atlas-selects/deepwater-bloom.png"
+ },
+ {
+  "key": "midnight-opaline",
+  "name": "The Midnight Opaline",
+  "whisper": "Color sleeps inside the dark, waiting for a shift in angle.",
+  "room": "Room V \u2014 Deep & Wild",
+  "image": "atlas-selects/midnight-opaline.png"
+ },
+ {
+  "key": "ember-bloom",
+  "name": "The Ember Bloom",
+  "whisper": "A warmth remains, even after the fire has learned restraint.",
+  "room": "Room V \u2014 Deep & Wild",
+  "image": "atlas-selects/ember-bloom.png"
+ },
+ {
+  "key": "wild-tangle",
+  "name": "The Wild Tangle",
+  "whisper": "Not everything beautiful agrees to be arranged.",
+  "room": "Room V \u2014 Deep & Wild",
+  "image": "atlas-selects/wild-tangle.png"
+ },
+ {
+  "key": "ink-garden",
+  "name": "The Ink Garden",
+  "whisper": "The hand moved once, and the moment stayed.",
+  "room": "Room VI \u2014 Hand & Mark",
+  "image": "atlas-selects/ink-garden.png"
+ },
+ {
+  "key": "charcoal-whisper",
+  "name": "The Charcoal Whisper",
+  "whisper": "The mark remains where the voice grew quiet.",
+  "room": "Room VI \u2014 Hand & Mark",
+  "image": "atlas-selects/charcoal-whisper.png"
+ },
+ {
+  "key": "nocturne-bloom",
+  "name": "The Nocturne Bloom",
+  "whisper": "It opens where the world has already gone quiet.",
+  "room": "The Threshold",
+  "image": "atlas-selects/nocturne-bloom.png"
+ }
+]
