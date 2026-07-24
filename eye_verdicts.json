@@ -533,5 +533,367 @@
    "reason": "The delicate blooms carry real presence against thin, high-altitude air, the composition breathes with generous negative space, and the dream-wash haze and cool-to-warm light transition fold cleanly into the collection's alchemical and dream-wash canon without any artifact breaking the spell.",
    "redemption": ""
   }
+ },
+ "comma": {
+  "unsorted_7144d8": {
+   "presence": 7,
+   "chorus": 5,
+   "vessel": 6,
+   "verdict": "HOLD",
+   "seen": "A crystalline profile silhouette filled with nebula-dust and a horizon-line of galactic light, cosmos-as-consciousness.",
+   "reason": "The concept and glass-crack texture carry genuine atmosphere, but this is stock-cosmic-headshot imagery \u2014 a well-worn trope rendered competently rather than transformed \u2014 and it doesn't clearly answer to any of the three canon pillars (too literal/graphic for Alchemical Atmosphere's elemental transformation, no botanical minimalism, and the edges are crisp-cracked glass rather than dissolving/bleeding as Dream-Wash requires).",
+   "redemption": "Soften the crack-lines into bleeding, memory-soft edges and let the nebula light behave like frost or ash rather than a rendered galaxy photo, so it reads as elemental transformation instead of a cosmic-head stock concept."
+  },
+  "unsorted_e8aae8": {
+   "presence": 5,
+   "chorus": 3,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "A crystalline human profile filled with cosmic nebula and starfield, a mind-as-universe silhouette.",
+   "reason": "The rendering is technically clean and the glass/cosmos vessel is well-formed, but this is a generic stock-AI 'galaxy brain' trope with no kinship to the collection's canon of botanical restraint, alchemical elemental transformation, or dream-wash bleeding light \u2014 it doesn't sing in this room.",
+   "redemption": "Recast the motif toward one of the three canon lines directly: strip it to a single glass or ash vessel with restrained negative space (Botanical Minimalism), or let the starfield read as frost/mineral transformation within the profile rather than literal galaxy-head iconography (Alchemical Atmosphere), and soften the crisp profile edge so it dissolves rather than reads as a rendered 3D asset."
+  },
+  "unsorted_c76e8f": {
+   "presence": 6,
+   "chorus": 5,
+   "vessel": 5,
+   "verdict": "HOLD",
+   "seen": "A translucent glass-skinned figure in profile, head fused with a starfield and galaxy-shot horizon, torso dissolving into wave-textured water.",
+   "reason": "The lower torso breaks into a jagged, pixelated shear right where flesh meets water \u2014 a rendering artifact that snaps the dream-logic rather than reading as intentional dissolution, and the piece doesn't clearly belong to any of the three canon rooms as-is (too literal/sci-fi for Botanical Minimalism, missing the elemental transformation vocabulary of Alchemical Atmosphere, and the edges are crisp rather than bled for Dream-Wash).",
+   "redemption": "Resolve the jagged torso-water seam into a soft, continuous dissolve (true dream-wash bleed), and either lean fully into Alchemical Atmosphere with more visible elemental transformation (mist, mineral, frost) or simplify the composition toward Botanical Minimalism's restraint."
+  },
+  "unsorted_8bd9b4": {
+   "presence": 5,
+   "chorus": 3,
+   "vessel": 6,
+   "verdict": "HOLD",
+   "seen": "A luminous floating-island gorge with three small robed figures gazing into a cloud-filled light chasm, rendered with painterly atmospheric depth.",
+   "reason": "Technically rich and atmospheric, but it reads as narrative fantasy-illustration rather than the collection's restraint or elemental transformation \u2014 the literal figures and storybook framing break with all three canon threads instead of joining any of them.",
+   "redemption": "Strip the figures and any illustrative narrative cues, let the light-chasm and mist stand alone as the subject so it can breathe as Alchemical Atmosphere rather than a scene from a story."
+  },
+  "unsorted_a4b3f9": {
+   "presence": 6,
+   "chorus": 4,
+   "vessel": 5,
+   "verdict": "HOLD",
+   "seen": "A lone cloaked figure on a golden causeway breaking through a storm toward a shaft of heavenly light, with a rendered city glinting far below.",
+   "reason": "The atmosphere and light-through-cloud drama are genuinely alchemical, but the literalized cliff-edge path (with visible rocky/textured strata and a crisp distant cityscape) reads as digital-matte-painting spectacle rather than the collection's restraint or memory-soft dissolution, and it doesn't fit any of the three canon rooms as-is.",
+   "redemption": "Dissolve the causeway's hard geologic texture into soft luminous mist so the path feels like light made solid rather than terrain, and let the distant city blur into abstraction or vanish entirely \u2014 pushing the piece toward Dream-Wash Rendering instead of matte-painting realism."
+  },
+  "unsorted_1edfa0": {
+   "presence": 4,
+   "chorus": 6,
+   "vessel": 5,
+   "verdict": "HOLD",
+   "seen": "A crystalline maple branch with jagged frost-star leaves against a soft blue bokeh sky",
+   "reason": "The leaf-crystal repetition is too uniform and decal-like \u2014 every leaf shares an identical stamped edge and speckle pattern, flattening the transformation into a wallpaper texture rather than a living alchemical moment, and the icy palette leans generic winter-stock rather than the collection's more intentional restraint or dissolve",
+   "redemption": "Vary the frost-crystallization per leaf (density, edge shape, degree of transformation) and let some leaves remain closer to organic form so the eye reads metamorphosis rather than a repeated stamp; soften a few edges into true dream-wash bleed"
+  },
+  "unsorted_099f2f": {
+   "presence": 6,
+   "chorus": 5,
+   "vessel": 6,
+   "verdict": "HOLD",
+   "seen": "A dense field of pointillist blue tendrils fanning into sail-like and eye-like forms, cohesive as pure abstract texture but generic as a repeating fractal-particle pattern rather than a composed image with a focal breath.",
+   "reason": "Vessel and craft are technically solid \u2014 the dot-density and glow render cleanly \u2014 but there's no negative space, no restraint, and no single held moment of transformation; it reads as an all-over decorative pattern rather than an Alchemical Atmosphere piece with a soul, so it doesn't carry any of the three canon threads with intention.",
+   "redemption": "Cull the composition to one dominant form with real negative space around it \u2014 let the dark ground breathe instead of tiling sails edge to edge \u2014 and give the piece a single locus (like the eye-form) the whole image builds toward, rather than uniform coverage."
+  },
+  "unsorted_8cdd51": {
+   "presence": 5,
+   "chorus": 3,
+   "vessel": 4,
+   "verdict": "HOLD",
+   "seen": "A double sunset over cloud-islands beneath hanging moss, rendered with a heavy vertical mirror-smear/glitch artifact tearing through the foliage and light-shafts.",
+   "reason": "The atmosphere and light are genuinely lovely but the pervasive rendering artifact \u2014 foliage and light-beams stuttering into repeated vertical striations \u2014 breaks the spell and doesn't align with any of the three canon rooms as rendered.",
+   "redemption": "Regenerate without the streaking/tiling artifact in the hanging moss and light shafts, and either commit fully to Dream-Wash edge-bleed or Alchemical Atmosphere elemental transformation rather than a glitchy in-between."
+  },
+  "unsorted_4c2b88": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "Two moonlit egrets dissolve into feathered marsh grasses and mist beneath a soft full moon, their forms bleeding into the plumage around them.",
+   "reason": "The birds and reeds merge into one continuous feathered texture, edges dissolving in true dream-wash fashion, with the moon's quiet glow reading as memory-light rather than illustration \u2014 a small softness in the lower bird's underbody doesn't break the spell.",
+   "redemption": ""
+  },
+  "unsorted_9f0a73": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A luminous ringed orb hovers over a cloudbank, thin celestial arcs and a vertical shaft of light tracing an armillary through mist and sky.",
+   "reason": "It commits fully to Alchemical Atmosphere \u2014 light behaving like memory, geometry rendered as vapor-thin trace \u2014 with no artifact or seam breaking the illusion.",
+   "redemption": ""
+  },
+  "unsorted_cffd7b": {
+   "presence": 7,
+   "chorus": 6,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A single seed-pod globe trailing a curved stem beneath a small pale moon, suspended in a bruised rose haze \u2014 restraint and negative space holding the whole composition.",
+   "reason": "It reads cleanly as Luminous Botanical Minimalism with a touch of Alchemical Atmosphere in the pink haze, and the single curved stem gives it a quiet, deliberate gesture rather than emptiness.",
+   "redemption": ""
+  },
+  "unsorted_824ba7": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "Two figures dissolved into an embrace, hair and mist merging with windswept grass until bodies and atmosphere become indistinguishable.",
+   "reason": "The soft bleed of light and form embodies Dream-Wash Rendering and Alchemical Atmosphere at once, with genuine emotional warmth surviving the blur rather than being erased by it.",
+   "redemption": ""
+  },
+  "blue-buddha_4b858b": {
+   "presence": 7,
+   "chorus": 5,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "A seated Buddha silhouette from behind, backlit into a swirling teal-blue vortex of light and water.",
+   "reason": "The stillness at the center is genuinely felt, but the churning concentric-ring vortex reads as generic digital-art spin-swirl rather than Alchemical transformation or Dream-Wash bleed, so it doesn't sign cleanly into any of the three canon rooms.",
+   "redemption": "Soften the vortex rings into something that behaves like memory or mineral \u2014 bleeding, dissolving edges instead of a uniform radial swirl filter \u2014 so the light circling him feels alchemical rather than templated."
+  },
+  "frost-lattice-vein_274032": {
+   "presence": 5,
+   "chorus": 6,
+   "vessel": 4,
+   "verdict": "HOLD",
+   "seen": "A macro photograph of frost feathering across window glass, backlit by low sun into a field of bokeh.",
+   "reason": "This is a literal ice-crystal photograph with no petal or floral form at all \u2014 the name promises 'Petals edged in crystalline frost' and Room IV's mineral-heart alchemy, but the piece delivers pure texture with nothing botanical to hold the whisper of stillness fracturing into precision.",
+   "redemption": "Regenerate with an actual petal or floral silhouette rendered in frost-lattice detail, so the crystalline structure reads as edging a bloom rather than replacing it entirely."
+  },
+  "frost-lattice-vein_0d206d": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A frost-veined blue bloom radiating from a near-black mineral core, its crystalline lattice fracturing outward into pale, dissolving petal-edges against soft ivory ground.",
+   "reason": "The frost-vein linework genuinely reads as crystalline fracture rather than decoration, the color bleeds true to Dream-Wash rendering, and the dark mineral heart anchors the Alchemical Atmosphere and Room IV placement without breaking the spell.",
+   "redemption": ""
+  },
+  "frost-lattice-vein_d716f6": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 8,
+   "verdict": "PASS",
+   "seen": "Frost-crystallized petal-like fronds fanning from a dark stem, each translucent blade etched with intricate crosshatched ice-crystal lattices lit from behind.",
+   "reason": "The frost lattice is genuinely delicate and precise, the composition holds negative space in the soft blue bokeh, and light passes through the icy petals like memory \u2014 it fulfills all three canon threads without artifact or dead spots.",
+   "redemption": ""
+  },
+  "frost-lattice-vein_8a63bb": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A frost-crusted seed-head, its radial veins spun to crystalline lace, lit sideways into gold at the fraying edge while its heart falls into shadow.",
+   "reason": "The frost is not decoration but structure \u2014 actual rime crystals fracturing along a vein network that reads as true mineral transformation, and the low backlight lets the negative space between spokes breathe rather than clutter, honoring both Alchemical Atmosphere and Luminous Botanical Minimalism.",
+   "redemption": ""
+  },
+  "frost-lattice-vein_9e7a78": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A frost-blue radial lattice of frozen veins bleeding outward into soft granular bloom against pale ground.",
+   "reason": "The crystalline branching genuinely reads as frost fracturing outward from a dark still core, and the dream-wash edges dissolve exactly as the canon demands.",
+   "redemption": ""
+  },
+  "frost-lattice-vein_de9f48": {
+   "presence": 7,
+   "chorus": 6,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A frost-blue bloom radiating fractal veins from a near-black mineral core into pale, dissolving petals against warm ivory ground.",
+   "reason": "The crystalline vein-work and soft-bled edges answer both the frost and dream-wash threads of the canon, and the dense dark heart gives it a mineral gravity rather than pure decoration.",
+   "redemption": ""
+  },
+  "frost-lattice-vein_04f3d2": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A radiating bloom of ink-blue frost-bloom veins, dense crystalline lattice-work fracturing outward from a dark molten core into pale glacial edges against bare white ground.",
+   "reason": "It passes because the fractal lattice reads as genuine crystalline growth caught mid-fracture, restrained to a single bleeding bloom on open white ground, honoring both the alchemical-frost transformation and the dream-wash bleed without any artifact breaking the illusion.",
+   "redemption": ""
+  },
+  "solar-silk-new_f7b104": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A tulip's throat lit from within, gold silk petals radiating out from a cluster of anthers, the whole frame flooded with warm interior light.",
+   "reason": "The luminosity is genuinely alchemical \u2014 light doesn't just illuminate the petals, it passes through them, translucent and honeyed, which is exactly the transformation the whisper names, and the botanical detail at center stays intentional rather than cluttered.",
+   "redemption": ""
+  },
+  "prismatic-mind_08d3d1": {
+   "presence": 7,
+   "chorus": 5,
+   "vessel": 6,
+   "verdict": "PASS",
+   "seen": "A soft cumulus sky where numerals drift and dissolve among the clouds like half-remembered data, some crisp and some already melting into vapor.",
+   "reason": "The whisper of 'a mind wide enough for weather to pass through' is genuinely embodied \u2014 the numbers behave like weather themselves, fading and clustering unevenly rather than sitting as a uniform overlay, and the dream-wash cloud rendering is soft and convincing; it sits nearer Alchemical Atmosphere than the stated Visionary Line but nothing here breaks the spell.",
+   "redemption": ""
+  },
+  "prismatic-mind_aa68c2": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A dusk sky where digits drift and dissolve through cloud-glow like scattered thoughts passing through open air.",
+   "reason": "The numerals feel like weather itself \u2014 permeable, unforced, and the soft rose-teal light gives them a memory-like haze rather than a data-overlay gimmick, fully honoring the whisper and Dream-Wash canon.",
+   "redemption": ""
+  },
+  "unsorted_66d7a9": {
+   "presence": 8,
+   "chorus": 7,
+   "vessel": 4,
+   "verdict": "HOLD",
+   "seen": "A white-flame angel dissolving into prismatic plumage, backlit into pure alchemical glare.",
+   "reason": "The light and feather-work carry real presence, but both hands resolve into warped, clawed, too-many-jointed digits and the lower-left limb reads as a stray wing-arm hybrid \u2014 malformed anatomy that breaks the spell.",
+   "redemption": "Regenerate or inpaint both hands with anatomically coherent fingers and resolve the lower-left limb into a clear wing or arm, not a hybrid."
+  },
+  "blossom-sparkle_3bf951": {
+   "presence": 6,
+   "chorus": 6,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "Two crisp, sharply-lit cherry blossoms on a dark stem against a soft bokeh field of rose and pearl.",
+   "reason": "The rendering is glossy botanical photography, not glass or jewelry \u2014 the petals read as porcelain-lit real flowers, not translucent alchemical objects, so the whisper of 'becoming jewelry' and the Alchemical Atmosphere thread go unanswered.",
+   "redemption": "Push translucency further \u2014 petals should show light passing through them like glass or crystal, with a cooler, more dissolved edge treatment and less crisp photographic sharpness, so the blossoms feel like they are being transmuted rather than merely photographed at golden hour."
+  },
+  "blossom-sparkle_7f0854": {
+   "presence": 7,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "Translucent, crystalline blossoms lit from within, glittering with frost-dust against a dim atmospheric ground.",
+   "reason": "The petals genuinely read as glass \u2014 light passing through veined, faceted surfaces \u2014 and the composition's negative space and soft bokeh keep the restraint the canon demands.",
+   "redemption": ""
+  },
+  "blossom-sparkle_51ee88": {
+   "presence": 7,
+   "chorus": 6,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "Translucent cosmos-like blossoms suspended in a milky, vignetted haze, petals lit from within like thin glass catching amber pollen light.",
+   "reason": "The translucency and jewel-like stamens deliver on the 'becomes jewelry' whisper and the soft-focus grain reads as Dream-Wash and Alchemical Atmosphere, though the busy multi-bloom arrangement leans fuller than the collection's usual restraint.",
+   "redemption": ""
+  },
+  "blossom-sparkle_2f1c16": {
+   "presence": 6,
+   "chorus": 6,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "A gold-line botanical study of poppy-like blossoms with milky-jade watercolor washes, floating in a vast field of untouched white with lavender ghost-blooms behind.",
+   "reason": "The negative space and delicate line-and-wash execution honor the canon, but the piece reads as decorative florals rather than 'jewelry' or 'held breath' \u2014 nothing about it earns the specific whisper, it could be retitled to any spring bouquet and lose nothing.",
+   "redemption": "Introduce an actual glass/crystalline quality \u2014 faceted highlights, refractive edges, or a frozen droplet motif on the petals \u2014 so the piece visibly becomes the jewelry its name promises rather than simply resembling a watercolor floral print."
+  },
+  "blossom-sparkle_0e455a": {
+   "presence": 4,
+   "chorus": 3,
+   "vessel": 5,
+   "verdict": "HOLD",
+   "seen": "A dense, edge-to-edge coral-and-frost thicket of translucent leaves, textured like veined tissue paper, with no negative space anywhere.",
+   "reason": "The whisper promises breath and jewelry \u2014 restraint and a single held moment \u2014 but the frame is wall-to-wall foliage with no air, no focal blossom, and no glass-like clarity; it reads as botanical wallpaper, not a jewel of held breath.",
+   "redemption": "Cut this back to one or two blossoms with real negative space around them, sharpen a single translucent focal point instead of an all-over textured mass, and let the 'glass' quality live in clear specular light on that one form rather than diffuse haze everywhere."
+  },
+  "blossom-sparkle_2138ab": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 8,
+   "verdict": "PASS",
+   "seen": "Lunaria seed pods rendered as backlit glass, veined membranes glowing translucent gold and lilac against a soft blue sky.",
+   "reason": "The translucency is genuinely jewel-like and the blown-out warm bokeh reads as alchemical light-as-memory, with negative space in the cool blue field giving the botanical detail room to breathe.",
+   "redemption": ""
+  },
+  "blossom-sparkle_f3143e": {
+   "presence": 6,
+   "chorus": 4,
+   "vessel": 6,
+   "verdict": "HOLD",
+   "seen": "A backlit wildflower field at golden hour with translucent, vein-lit petals catching the sun.",
+   "reason": "The petal translucency is genuinely lovely, but this reads as sun-soaked meadow photography, not glass or jewelry \u2014 it has warmth and texture rather than the crystalline stillness and negative space Alchemical Atmosphere and Luminous Botanical Minimalism demand, and the busy, cluttered field breaks the restraint the collection's canon requires.",
+   "redemption": "Isolate one or two blossoms against a spare, uncluttered ground, cool the palette toward glass/frost tones instead of amber sunset, and sharpen the sense of crystalline stillness so the 'jewelry' whisper is felt rather than just implied by petal veining."
+  },
+  "deepwater-new_ee53ce": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "Elongated, translucent bloom-forms hang suspended in dark water, their petal-edges dissolving into drifting silt-light and ember-colored motes, as if caught mid-sway in a current only they can feel.",
+   "reason": "The forms hold real weight and translucency while their edges genuinely dissolve into the surrounding dark per Dream-Wash canon, and the diffuse particulate light reads as slow underwater motion rather than a static botanical illustration, fulfilling the whisper's promise of stillness that moves.",
+   "redemption": ""
+  },
+  "blue-buddha_2f206b": {
+   "presence": 5,
+   "chorus": 3,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "A seated figure silhouetted in indigo, back to us, ringed by a glossy wave-tunnel of turquoise glass and haloed by a sunburst.",
+   "reason": "The wave-tunnel is rendered as slick, symmetrical CG glass rather than water or light behaving like memory, and the perfectly centered halo/lens-flare reads as a stock-render trope, not transformation \u2014 so it doesn't sing with Alchemical Atmosphere or Dream-Wash despite decent stillness in the figure.",
+   "redemption": "Rough the tunnel's symmetry and swap the glassy CG sheen for something that dissolves at the edges \u2014 softer bleed, less mechanical wave repetition, less centered lens-flare glow \u2014 so the water reads as elemental transformation rather than a rendered tube."
+  },
+  "blue-buddha_6df604": {
+   "presence": 8,
+   "chorus": 6,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A seated Buddha silhouette from behind, cradled inside a swirling vortex of teal-blue water and light that halos around a bright central sun.",
+   "reason": "The figure holds genuine stillness against the surrounding vortex \u2014 restraint at the core, transformation at the edges \u2014 and the whisper's promise of light circling in agreement is literally rendered without tipping into gimmick or AI-artifact strangeness.",
+   "redemption": ""
+  },
+  "blue-buddha_70cec0": {
+   "presence": 7,
+   "chorus": 5,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "A meditating figure silhouetted against a concentric vortex of light, radial swirl-lines converging like water or vision funneling toward a single sun.",
+   "reason": "The vessel holds a genuine devotional stillness and the light-vortex is atmospheric, but the piece leans on a generic underwater/tunnel-of-light AI motif and clean vector-smooth silhouette that reads more stock-devotional-poster than any of the three canon rooms \u2014 it doesn't yet speak Botanical restraint, Alchemical elemental transformation, or Dream-Wash edge-bleed.",
+   "redemption": "Soften the silhouette's crisp vector edge into a dissolving, memory-soft contour, break the mechanical regularity of the concentric swirl lines so the light feels alchemical (mineral, glass, ash) rather than a digital lens-flare tunnel, and let color bleed rather than sit in clean concentric bands."
+  },
+  "blue-buddha_c3564e": {
+   "presence": 6,
+   "chorus": 5,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "A meditating silhouette held motionless inside concentric rings of light and water, submerged reverence rather than circling agreement.",
+   "reason": "The vessel is clean and the atmosphere reads as genuine underwater devotion, but the swirl feels generic and slightly stock-vortex rather than light truly 'agreeing to circle' around him, and it sits closer to Alchemical Atmosphere than an established Devotional Line, so the chorus with the collection's canon is uncertain.",
+   "redemption": "Let the light rings visibly bend or slow around the figure specifically \u2014 a gravitational deference rather than an ambient tunnel \u2014 so the whisper's claim of light choosing to circle him becomes visible, not just implied."
+  },
+  "white-scatter_2d1d44": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A soft ink-bloom of blossom and stray grass stems dissolving into vast pale ground, held together by two bright pinprick highlights and a red seal.",
+   "reason": "It earns its whisper \u2014 the paper stays almost bare while the ink-flower cluster and trailing stems carry real botanical presence and Dream-Wash edge-bleed, with the alchemical red seal grounding it as a made object rather than noise.",
+   "redemption": ""
+  },
+  "white-scatter_213e53": {
+   "presence": 8,
+   "chorus": 8,
+   "vessel": 7,
+   "verdict": "PASS",
+   "seen": "A single cherry-blossom cluster with a scattering bud drifting across vast bare paper, threaded by wiry stems and a dusting of light like pollen caught mid-fall.",
+   "reason": "It earns its whisper honestly \u2014 the paper's emptiness is the composition, not an absence, and the sparse florals with their trembling seed-heads carry real botanical fragility and alchemical light without tipping into decoration or AI-smoothness.",
+   "redemption": ""
+  },
+  "white-scatter_012f09": {
+   "presence": 8,
+   "vessel": 7,
+   "chorus": 7,
+   "verdict": "PASS",
+   "seen": "A cluster of pale cherry blossoms and one bud drifting on trailing stems across an almost-empty warm-toned ground, sparked with tiny glints of light.",
+   "reason": "The vast bare field genuinely reads as presence rather than emptiness, and the sparse blossoms with their soft dissolving edges and quiet sparkle carry the restraint and dream-wash bleed the canon calls for without any artifact breaking the spell.",
+   "redemption": ""
+  },
+  "warm-water_d5bbac": {
+   "presence": 6,
+   "chorus": 4,
+   "vessel": 7,
+   "verdict": "HOLD",
+   "seen": "A glass teacup holding a miniature axolotl pond ecosystem, water blooming upward into flowers, delicate and whimsical.",
+   "reason": "It's a lovely, competently rendered piece, but it reads as whimsical illustration rather than devotional medicine \u2014 there's no ache or stillness of healing in it, and the dense curio-cabinet busyness (fish, dragonfly, moth, rocks, lily pads all at once) works against the restraint the collection's canon actually asks for.",
+   "redemption": "Simplify drastically \u2014 one axolotl or none, fewer flowers, more negative space around the cup, so the piece feels like a single warm exhale instead of a crowded terrarium."
+  }
  }
 }

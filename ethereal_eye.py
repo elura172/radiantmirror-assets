@@ -82,7 +82,7 @@ def judge(image: Path, name: str, whisper: str, room: str) -> dict:
 
 def main() -> None:
     ap = argparse.ArgumentParser()
-    ap.add_argument("collection", choices=["atlas", "flowers"])
+    ap.add_argument("collection", choices=["atlas", "flowers", "vault", "comma"])
     ap.add_argument("--piece")
     ap.add_argument("--force", action="store_true", help="re-judge even if a verdict exists")
     args = ap.parse_args()
@@ -97,7 +97,7 @@ def main() -> None:
             continue
         if key in coll and not args.force and coll[key].get("verdict") in ("PASS", "HOLD"):
             continue
-        v = judge(HERE / piece["image"], piece["name"], piece["whisper"], piece["room"])
+        v = judge(Path(piece["image"]) if piece["image"].startswith("/") else HERE / piece["image"], piece["name"], piece["whisper"], piece["room"])
         coll[key] = v
         VERDICTS.write_text(json.dumps(verdicts, indent=1))
         mark = {"PASS": "✧", "HOLD": "◦"}.get(v.get("verdict"), "!")
